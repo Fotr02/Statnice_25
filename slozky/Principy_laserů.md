@@ -89,11 +89,11 @@ neboli $E_2>E_1$.
 
 Při inverzi populace hladin je tomu naopak a bude tam existovat energetická hladina, která bude více obsazená než méně energetická hladina.
 
-![Ukázka populací hladin při termodynamické rovnováze a při inverzi populace hladin](Principy%20laser%C5%AF%2022aae1c2f2088036aa5bc47797e5edbc/Inverze.png)
+![Ukázka populací hladin při termodynamické rovnováze a při inverzi populace hladin](Principy_laserů/Inverze.png)
 
 Ukázka populací hladin při termodynamické rovnováze a při inverzi populace hladin
 
-Inverze bude popsána stejný vztahem jako [ZDE](Principy%20laser%C5%AF%2022aae1c2f2088036aa5bc47797e5edbc.md) → nicméně tam bude opačné < → to vede na to, že “teplota musí být záporná” →nerovnovážný stav 
+Inverze bude popsána stejný vztahem jako výše → nicméně tam bude opačné < → to vede na to, že “teplota musí být záporná” →nerovnovážný stav 
 
 **Inverze populace hladin je nutná podmínka pro zesilování světla** a je možná pouze v termodynamicky nerovnovážném stavu (je tam více energie než daná soustava uvolňuje).
 
@@ -256,9 +256,9 @@ Energie KS se zvýší
 
 </aside>
 
-![Snímek obrazovky 2025-07-08 162741.png](Principy%20laser%C5%AF%2022aae1c2f2088036aa5bc47797e5edbc/Snmek_obrazovky_2025-07-08_162741.png)
+![Snímek obrazovky 2025-07-08 162741.png](Principy_laserů/Snmek_obrazovky_2025-07-08_162741.png)
 
-![Snímek obrazovky 2025-07-08 163104.png](Principy%20laser%C5%AF%2022aae1c2f2088036aa5bc47797e5edbc/Snmek_obrazovky_2025-07-08_163104.png)
+![Snímek obrazovky 2025-07-08 163104.png](Principy_laserů/Snmek_obrazovky_2025-07-08_163104.png)
 
 <aside>
 🔥
@@ -286,9 +286,9 @@ Všechny vlastnosti emitovaného a stimulujícího fotonu jsou stejné
 
 </aside>
 
-![Snímek obrazovky 2025-07-23 135948.png](Principy%20laser%C5%AF%2022aae1c2f2088036aa5bc47797e5edbc/Snmek_obrazovky_2025-07-23_135948.png)
+![Snímek obrazovky 2025-07-23 135948.png](Principy_laserů/Snmek_obrazovky_2025-07-23_135948.png)
 
-Pravděpodobnost těchto dějů (v případě splnění  [REZONANCE](Principy%20laser%C5%AF%2022aae1c2f2088036aa5bc47797e5edbc.md)) lze stanovit pomocí **EINSTENOVÝCH KOEFICIENTŮ** (SOUČINITELŮ)
+Pravděpodobnost těchto dějů (v případě splnění  [REZONANCE](Principy_laserů.md)) lze stanovit pomocí **EINSTENOVÝCH KOEFICIENTŮ** (SOUČINITELŮ)
 
 ### Koeficient spontánní emise $A_{nm}$
 
