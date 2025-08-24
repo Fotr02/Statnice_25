@@ -1,0 +1,21 @@
+title: "Státnice"
+author: "Jiří Růžička"
+logo: logo.png
+copyright: "2025 Jiří Růžička"
+only_build_toc_files: true
+
+sphinx:
+  config:
+    language: "cs"
+
+html:
+  theme:
+    name: sphinx_book_theme
+    options:
+      toggle_theme: true      # povolit přepínání světlý/tmavý režim
+      switcher:
+        enable: true          # povolit switcher témat (někdy pomáhá)
+  extra_static_paths:
+    - _static
+  extra_js:
+    - _static/custom.js

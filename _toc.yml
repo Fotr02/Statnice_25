@@ -1,0 +1,21 @@
+# _toc.yml
+format: jb-book
+root: index
+
+parts:
+  - caption: "Laserová technika a fotonika"
+    numbered: false
+    chapters:
+      - file: lasery/ot1
+        title: Principy laserů
+      - file: lasery/ot2
+        title: Typy laserů
+        sections:
+          - file: lasery/OT2/podotA
+            title: Pevnolátkové lasery
+
+  - caption: "Aplikovaná fyzika"
+    chapters:
+      - file: fyzika/ot1
+        title: Dynamika pohybu hmotného bodu
+
