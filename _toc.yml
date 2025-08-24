@@ -6,16 +6,48 @@ parts:
   - caption: "Laserová technika a fotonika"
     numbered: false
     chapters:
-      - file: lasery/ot1
+      - file: slozky/1Principy_laseru
         title: Principy laserů
-      - file: lasery/ot2
+      - file: slozky/2Typy_laseru
         title: Typy laserů
-        sections:
-          - file: lasery/OT2/podotA
-            title: Pevnolátkové lasery
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/1Principy_laseru
+        title: Principy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/1Principy_laseru
+        title: Principy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+
 
   - caption: "Aplikovaná fyzika"
     chapters:
-      - file: fyzika/ot1
-        title: Dynamika pohybu hmotného bodu
+      - file: slozky/1Principy_laseru
+        title: Principy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/1Principy_laseru
+        title: Principy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
+      - file: slozky/1Principy_laseru
+        title: Principy laserů
+      - file: slozky/2Typy_laseru
+        title: Typy laserů
 
