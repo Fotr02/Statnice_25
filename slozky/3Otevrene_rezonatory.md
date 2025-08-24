@@ -100,11 +100,11 @@ $$
 
 Rezonátor připouští oscilace všech módů, ale ty, které se budou zesilovat, vybírá aktivní prostředí. (Módy takových frekvencí, kde zisk bude větší jak ztráty.)
 
-![Různé podélné módy.](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_131043.png)
+![Různé podélné módy.](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_131043.png)
 
 Různé podélné módy.
 
-![Zobrazení ve frekvenční doméně](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_131514.png)
+![Zobrazení ve frekvenční doméně](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_131514.png)
 
 Zobrazení ve frekvenční doméně
 
@@ -171,7 +171,7 @@ kde $w(z)$ je poloměr svazku základního příčného módu, (Intenzita klesne
 
 - **Ukázka Hermitových polynomů**
     
-    ![Hermiti.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Hermiti.png)
+    ![Hermiti.png](3Otevrene_rezonatory/Hermiti.png)
     
 </aside>
 
@@ -180,7 +180,7 @@ kde $w(z)$ je poloměr svazku základního příčného módu, (Intenzita klesne
 
 - **Profily módů v pravoúhlých souřadnicích**
     
-    ![Inten.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Inten.png)
+    ![Inten.png](3Otevrene_rezonatory/Inten.png)
     
 </aside>
 
@@ -197,11 +197,11 @@ Pokud máme model rezonátoru s kruhovými zrcadly - výhoda válcových souřad
 
 - **Profily módů ve válcových souřadnicích**
     
-    ![int_lagu.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/int_lagu.png)
+    ![int_lagu.png](3Otevrene_rezonatory/int_lagu.png)
     
 </aside>
 
-![Příčné módy vyšších řádů mají větší příčný rozměry než základní mód.](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_145554.png)
+![Příčné módy vyšších řádů mají větší příčný rozměry než základní mód.](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_145554.png)
 
 Příčné módy vyšších řádů mají větší příčný rozměry než základní mód.
 
@@ -240,7 +240,7 @@ Je to vlastní řešení (eigen solution) paraxiální Helmholtzovy rovnice. Vý
 
 - [**Průběh intenzity gaussovského svazku**](https://www.youtube.com/watch?v=MU4eOJw2sBQ)
     
-    ![Snímek obrazovky 2025-08-04 175142.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_175142.png)
+    ![Snímek obrazovky 2025-08-04 175142.png](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_175142.png)
     
 </aside>
 
@@ -249,7 +249,7 @@ Je to vlastní řešení (eigen solution) paraxiální Helmholtzovy rovnice. Vý
 
 - **Důležité pojmy a  vztahy**
     
-    ![gausbeam.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/gausbeam.png)
+    ![gausbeam.png](3Otevrene_rezonatory/gausbeam.png)
     
     - FWHM $\approx 1.2 w$
     - $w_0$ velikost poloměru svazku v krčku
@@ -274,7 +274,7 @@ Je to vlastní řešení (eigen solution) paraxiální Helmholtzovy rovnice. Vý
     I(r) = I_p \exp\left(-2\left(\frac{r}{w}\right)^n\right)
     $$
     
-    ![Snímek obrazovky 2025-08-04 190910.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_190910.png)
+    ![Snímek obrazovky 2025-08-04 190910.png](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_190910.png)
     
     Generace: základ Gaussovský profil → vhodná optický element
     
@@ -289,7 +289,7 @@ Je to vlastní řešení (eigen solution) paraxiální Helmholtzovy rovnice. Vý
     
     Máme-li kruhovou aparaturu (poloměr $a$), pak graf závislosti poměru $a$ ku $w$ je
     
-    ![Snímek obrazovky 2025-08-04 191543.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_191543.png)
+    ![Snímek obrazovky 2025-08-04 191543.png](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_191543.png)
     
     | Průměr apertury $d$ | Transmise výkonu |
     | --- | --- |
@@ -322,7 +322,7 @@ $$
 \begin{split} w^4_1 &= \left(\dfrac{\lambda R_1}{\pi}\right)^2\dfrac{R_2-L}{R_1-L}\left(\dfrac{L}{R_1+R_2-L}\right)  \\ w^4_2 &= \left(\dfrac{\lambda R_2}{\pi}\right)^2\dfrac{R_1-L}{R_2-L}\left(\dfrac{L}{R_1+R_2-L}\right) \\ w^4_0 &= \left(\dfrac{\lambda}{\pi}\right)^2\dfrac{L(R_1-L)(R_2-L)(R_1+R_2-L)}{(R_1 +R_2 +L)^2}\end{split}
 $$
 
-![Příklady různých konfigurací rezonátoru. Konfokální  - obě ohniska jsou ve stejném místě.](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_200548.png)
+![Příklady různých konfigurací rezonátoru. Konfokální  - obě ohniska jsou ve stejném místě.](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_200548.png)
 
 Příklady různých konfigurací rezonátoru. Konfokální  - obě ohniska jsou ve stejném místě.
 
@@ -350,7 +350,7 @@ $$
 0\leq \left(1-\dfrac{L}{R_1}\right)\cdot \left(1-\dfrac{L}{R_2}\right) \leq 1.
 $$
 
-Nazývá se to **podmínka stability otevřeného rezonátoru** (odvození snad [ZDE](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383.md)).
+Nazývá se to **podmínka stability otevřeného rezonátoru** (odvození snad [ZDE](3Otevrene_rezonatory.md)).
 
 Rezonátory splňující tuto podmínkou jsou tzv. stabilní rezonátory.
 
@@ -362,7 +362,7 @@ Rezonátory, které mají $g_1 =g_2$ se nazývají **symetrické**.
 
 Graficky to může vypadat
 
-![Můžete si do grafu vyznačit kde se nacházejí jednotlivé typy rezonátorů.](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/stabilita.png)
+![Můžete si do grafu vyznačit kde se nacházejí jednotlivé typy rezonátorů.](3Otevrene_rezonatory/stabilita.png)
 
 Můžete si do grafu vyznačit kde se nacházejí jednotlivé typy rezonátorů.
 
@@ -411,7 +411,7 @@ Otevřený rezonátor obecně působí i na spektrální vlastnosti záření - 
 
 Dva rovnoběžné optické povrchy nekonečných rozměrů (”etalon”) → bude to dělat takovou tu více průchodovou/odrazovou interferenci (konstruktivní, když mají interferující složky mají stejnou fázi - všechna energie projde plochou $M_1$)
 
-![Snímek obrazovky 2025-08-04 212917.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_212917.png)
+![Snímek obrazovky 2025-08-04 212917.png](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_212917.png)
 
 Fázový rozdíl sousedních odražených/prošlých vln je 
 
@@ -429,7 +429,7 @@ r je reflektivita jednotlivých povrchů. Když  $2n d \cos\Theta = m\lambda$ pa
 
 Definuje se **finesa (jemnost) rezonátoru** jako $F = \frac{\Delta \lambda}{\delta \lambda}$ (význam těch elemetů je vidět z obrázku - $\Delta \lambda$ je šířka spektrálního pásma etalonu)
 
-![Poznámka - ta křivka transmise a reflekce se normálně doplňuje - tady jsou vykresleny ale pro dva různý rezonátory (jiný $F$)](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_214031.png)
+![Poznámka - ta křivka transmise a reflekce se normálně doplňuje - tady jsou vykresleny ale pro dva různý rezonátory (jiný $F$)](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_214031.png)
 
 Poznámka - ta křivka transmise a reflekce se normálně doplňuje - tady jsou vykresleny ale pro dva různý rezonátory (jiný $F$)
 
@@ -437,7 +437,7 @@ Rezonanční podmínka závisí na vlnové délce, optické délce a úhlu lomu.
 
 Pro rezonátory s velkými poloměry křivosti (mnohem větší jak vzdálenost zrcadel) se rezonanční spektrum skládá z hodně blízkých složek ($c/2L$), odpovídajících danému módu (každá je obklopena řadou rezonančních frekvencí odpovídajících příčným módům vyšších řádů).
 
-![Snímek obrazovky 2025-08-04 220420.png](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-04_220420.png)
+![Snímek obrazovky 2025-08-04 220420.png](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-04_220420.png)
 
 Pro zužování spektra záření se v pevnolátkových laserech využívá rezonanční reflektor (etalon na místě výstupního zrcadla).
 
@@ -469,7 +469,7 @@ Popisujeme to následujícími parametry
 
 ## Nestabilní rezonátory
 
-Nesplnění [podmínky](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383.md) vede na to, že záření uvnitř rezonátoru nemá tvar Gaus. svazku (GS). Rozložení pole v rezonátoru nelze popsat těma klasickýma funkcema.
+Nesplnění [podmínky](3Otevrene_rezonatory.md) vede na to, že záření uvnitř rezonátoru nemá tvar Gaus. svazku (GS). Rozložení pole v rezonátoru nelze popsat těma klasickýma funkcema.
 
 Nestabilita znamená, že vstupující GS do rezonátoru bude při každém průchodu zvětšovat svůj rozměr (nestabilita řešení). 
 
@@ -477,7 +477,7 @@ Jsou méně citlivé (na rozladění zrcadel) než stabilní rezonátory.
 
 Pro rozdělení se zavádí speciální $G$-parametr $G = 2g_1g_2-1$.
 
-Dělí se na nestabilní rezonátory v **kladné větvi (G>1)** a **záporné větvi (G<-1; v plynových laserech).** (Podle [diagramu](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383.md))
+Dělí se na nestabilní rezonátory v **kladné větvi (G>1)** a **záporné větvi (G<-1; v plynových laserech).** (Podle [diagramu](3Otevrene_rezonatory.md))
 
 Ustálené konfigurace pole na zrcadlech lze získat řešením Kirchhoffovy integrální rovnice.
 
@@ -519,7 +519,7 @@ $$
 \begin{bmatrix}y_2 \\ \alpha_2\end{bmatrix} =\begin{bmatrix}A & B \\ C & D\end{bmatrix}\cdot \begin{bmatrix}y_1 \\ \alpha_1\end{bmatrix} 
 $$
 
-![Různé typy přenosových matic ](Otev%C5%99en%C3%A9%20rezon%C3%A1tory%20241ae1c2f208806cacdbcac45ac21383/Snmek_obrazovky_2025-08-05_203813.png)
+![Různé typy přenosových matic ](3Otevrene_rezonatory/Snmek_obrazovky_2025-08-05_203813.png)
 
 Různé typy přenosových matic 
 

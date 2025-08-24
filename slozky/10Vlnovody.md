@@ -26,7 +26,7 @@ Máme dva základní typy vlnovodů
 
 **Vrstvový vlnovod**
 
-![$n_a$ se občas značí $n_c$ jako cover](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_203243.png)
+![$n_a$ se občas značí $n_c$ jako cover](10Vlnovody/Snmek_obrazovky_2025-08-14_203243.png)
 
 $n_a$ se občas značí $n_c$ jako cover
 
@@ -34,7 +34,7 @@ Skok v indexu lomu, Homogenní
 
 **Gradientní vlnovod**
 
-![Snímek obrazovky 2025-08-14 203259.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_203259.png)
+![Snímek obrazovky 2025-08-14 203259.png](10Vlnovody/Snmek_obrazovky_2025-08-14_203259.png)
 
 Index spojitě přechází na jinou hodnotu, Nehomogenní
 
@@ -42,7 +42,7 @@ Index spojitě přechází na jinou hodnotu, Nehomogenní
 
 Vlnovody fungují na principu totálního odrazu světla → odvozuje se to všechno ze zákona odrazu a lomu rovinné vlny na rozhraní dielektrik → rozlišení TE a TM polarizace → HLAVNĚ= **Spojitost tečných složek intenzit elektrického a magnetického pole**
 
-![Snímek obrazovky 2025-08-14 204435.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_204435.png)
+![Snímek obrazovky 2025-08-14 204435.png](10Vlnovody/Snmek_obrazovky_2025-08-14_204435.png)
 
 Z toho se následně odvodí, že podélné složky indexu lomu (**nazývané jako efektivní index lomu $N$**) jsou stejné pro **dopadající** (**i-initial**), **odraženou** (**r-refracted**) a **prošlou** (t**-transmited**) vlnu (stejné jsou i vlnová čísla) ⇒ $N_i=N_r=N_t =N$, což vede na
 
@@ -54,25 +54,25 @@ Z toho jde zjistit i Fresnelovy koeficienty pro obě polarizace ⇒ jsou to ampl
 
 V oblasti totálního odrazu je modul reflektance roven 1 a fáze závisí na úhlu dopadu
 
-![Snímek obrazovky 2025-08-14 205143.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_205143.png)
+![Snímek obrazovky 2025-08-14 205143.png](10Vlnovody/Snmek_obrazovky_2025-08-14_205143.png)
 
-![Snímek obrazovky 2025-08-14 205153.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/edda40a7-a30a-4a96-9017-68a697d2f5b0.png)
+![Snímek obrazovky 2025-08-14 205153.png](10Vlnovody/edda40a7-a30a-4a96-9017-68a697d2f5b0.png)
 
 Musí být splněna podmínka příčné rezonance (podmínka selfkonzistence) → rovinná vlna se po dvou průchodech vrstvou a dvou odrazech od rozhraní musí reprodukovat i co do fáze → vypadne z toho disperzní rovnice ⇒ řeší se numericky, ale nemusí mít také řešení
 
-![N je často větší pro TM než pro TE](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_205739.png)
+![N je často větší pro TM než pro TE](10Vlnovody/Snmek_obrazovky_2025-08-14_205739.png)
 
 N je často větší pro TM než pro TE
 
-![Disperzní diagram-nesymetrický vlnovod (všechny 3 indexy lomu jsou jiný) - počet vidů TM je menší nebo rovno počtu vidů TE](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_210001.png)
+![Disperzní diagram-nesymetrický vlnovod (všechny 3 indexy lomu jsou jiný) - počet vidů TM je menší nebo rovno počtu vidů TE](10Vlnovody/Snmek_obrazovky_2025-08-14_210001.png)
 
 Disperzní diagram-nesymetrický vlnovod (všechny 3 indexy lomu jsou jiný) - počet vidů TM je menší nebo rovno počtu vidů TE
 
-![Disperzní diagram - symetrický vlnovod (cover a substrát mají stejný index lomu), počet vidů je stejný pro obě polarizace, vlnovodný dvojlom je větší](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_210211.png)
+![Disperzní diagram - symetrický vlnovod (cover a substrát mají stejný index lomu), počet vidů je stejný pro obě polarizace, vlnovodný dvojlom je větší](10Vlnovody/Snmek_obrazovky_2025-08-14_210211.png)
 
 Disperzní diagram - symetrický vlnovod (cover a substrát mají stejný index lomu), počet vidů je stejný pro obě polarizace, vlnovodný dvojlom je větší
 
-![Rozložení pole vidů; do superstrátu taky vnikají vlny (evanescentní); čím větší mód, tím větší hloubka vniku do substrátu](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_210447.png)
+![Rozložení pole vidů; do superstrátu taky vnikají vlny (evanescentní); čím větší mód, tím větší hloubka vniku do substrátu](10Vlnovody/Snmek_obrazovky_2025-08-14_210447.png)
 
 Rozložení pole vidů; do superstrátu taky vnikají vlny (evanescentní); čím větší mód, tím větší hloubka vniku do substrátu
 
@@ -82,7 +82,7 @@ Zase se dá nějak odvodit disperzní rovnice → souvisí s tím metoda WKB apr
 
 Gradientní - nenene - **graded-index** - postupná změna indexu lomu
 
-![Rozložení pole (magnet.) TM vidů; maximální amplituda je tam, kde je největší změna indexu lomu - největší útlum (to modrý)](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_210903.png)
+![Rozložení pole (magnet.) TM vidů; maximální amplituda je tam, kde je největší změna indexu lomu - největší útlum (to modrý)](10Vlnovody/Snmek_obrazovky_2025-08-14_210903.png)
 
 Rozložení pole (magnet.) TM vidů; maximální amplituda je tam, kde je největší změna indexu lomu - největší útlum (to modrý)
 
@@ -92,7 +92,7 @@ Jde odvodit vlnová rovnice z MR → celkové pole ve Vlnové rovnici lze rozlo�
 
 Módy vlnovodu se klasifikují podle N^2
 
-![Substrátové mají jenom jeden totální odraz, je jich spojité spektrum; Zářivé: žádný totální odraz, taky spojité spektrum; Evanescentní: $N$ je čistě komplexní  ](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-14_211533.png)
+![Substrátové mají jenom jeden totální odraz, je jich spojité spektrum; Zářivé: žádný totální odraz, taky spojité spektrum; Evanescentní: $N$ je čistě komplexní  ](10Vlnovody/Snmek_obrazovky_2025-08-14_211533.png)
 
 Substrátové mají jenom jeden totální odraz, je jich spojité spektrum; Zářivé: žádný totální odraz, taky spojité spektrum; Evanescentní: $N$ je čistě komplexní  
 
@@ -114,31 +114,31 @@ K technologiím vlnovodů se řadí
 
 Jedny ze základních prvků IO jsou právě optické vlnovody. Dají se využít s takovými kroužky → vznik mikrorezonátorů (záleží jestli je vlnovod vedle (hůř se dělá mezera mezi vlnovody a loopem) nebo pod(těžší na výrobu) )→ vlny se navazují díly evanescentním vlnám
 
-![Snímek obrazovky 2025-08-15 162350.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_162350.png)
+![Snímek obrazovky 2025-08-15 162350.png](10Vlnovody/Snmek_obrazovky_2025-08-15_162350.png)
 
 Dále se využívají různá rozvětvení (symetrické/asymetrické, zleva/zprava), odbočnice, děliče (výkonu, interferenční)
 
 Následují krásný obrázky
 
-![Snímek obrazovky 2025-08-15 163245.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_163245.png)
+![Snímek obrazovky 2025-08-15 163245.png](10Vlnovody/Snmek_obrazovky_2025-08-15_163245.png)
 
-![Snímek obrazovky 2025-08-15 163307.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_163307.png)
+![Snímek obrazovky 2025-08-15 163307.png](10Vlnovody/Snmek_obrazovky_2025-08-15_163307.png)
 
-![Dělič s mnohovidovou interferencí](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_163328.png)
+![Dělič s mnohovidovou interferencí](10Vlnovody/Snmek_obrazovky_2025-08-15_163328.png)
 
 Dělič s mnohovidovou interferencí
 
-![Když je úhel malý a výstupní větve asymetrické → chová se to jako oddělovač vidů a né dělič výkonu](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_163256.png)
+![Když je úhel malý a výstupní větve asymetrické → chová se to jako oddělovač vidů a né dělič výkonu](10Vlnovody/Snmek_obrazovky_2025-08-15_163256.png)
 
 Když je úhel malý a výstupní větve asymetrické → chová se to jako oddělovač vidů a né dělič výkonu
 
-![Směrová odbočnice - přelejvá se to sem a tam - různě pro vlnové délky](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_163317.png)
+![Směrová odbočnice - přelejvá se to sem a tam - různě pro vlnové délky](10Vlnovody/Snmek_obrazovky_2025-08-15_163317.png)
 
 Směrová odbočnice - přelejvá se to sem a tam - různě pro vlnové délky
 
 Nejzajímavější je Spektrální demultiplexor - AWG - arrayed waveguide grating demux
 
-![Snímek obrazovky 2025-08-15 163401.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_163401.png)
+![Snímek obrazovky 2025-08-15 163401.png](10Vlnovody/Snmek_obrazovky_2025-08-15_163401.png)
 
 Vstup je vlnovod → do planárního úseku (vznik ekvifázových ploch) → navázání do plan. vlnovodů (různě dlouhé) →na střední vlnové délce se vytvoří ekvifázová plocha → Roulandova kružnice →vyvázání
 
@@ -167,7 +167,7 @@ Lepší je udělat segmentovaný vlnovod → dají se udělat o dost větší ob
 
 Základní schéma vypadá
 
-![Snímek obrazovky 2025-08-15 092651.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_092651.png)
+![Snímek obrazovky 2025-08-15 092651.png](10Vlnovody/Snmek_obrazovky_2025-08-15_092651.png)
 
 - **Jádro** - $\text{SiO}_2$ dopovaný Ge, P ,$\ldots$ - oblast s vyšším indexem lomu
     - 2a - průměr jádra (2-50 um)
@@ -182,13 +182,13 @@ Základní schéma vypadá
 - PCS (polymer-coated silica)
 - Plastová …
 
-![Snímek obrazovky 2025-08-15 093154.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_093154.png)
+![Snímek obrazovky 2025-08-15 093154.png](10Vlnovody/Snmek_obrazovky_2025-08-15_093154.png)
 
 Vlákna zachovávající polarizaci máme dvojího typu - panda/bow-tie ⇒ dvojlom vyvolaný v jádře pnutím vede k různým konstantám šíření pro vidy různé polarizace
 
 Napěťové tyče/segmenty - materiály s různou tepelnou roztažností
 
-![Snímek obrazovky 2025-08-15 093441.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_093441.png)
+![Snímek obrazovky 2025-08-15 093441.png](10Vlnovody/Snmek_obrazovky_2025-08-15_093441.png)
 
 ## Důležité pojmy
 
@@ -202,7 +202,7 @@ $$
 
 Vztah s $n_1^2(0)$ je pro vlákno s graded-indexem.
 
-![Snímek obrazovky 2025-08-15 095444.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_095444.png)
+![Snímek obrazovky 2025-08-15 095444.png](10Vlnovody/Snmek_obrazovky_2025-08-15_095444.png)
 
 ### V-parametr/normovaná frekvence
 
@@ -218,11 +218,11 @@ Pro Single-mode vlákno nesmí být hodnota větší jak 2.405
 
 Vlna se šíří vláknem s efektivním indexem lomu $N=\beta/k_0$ ⇒ disperzní rovnice ⇒ řešení je parametrizováno celým čísle $l$ (pro každé číslo máme několik řešení $N_{lm}$ - $l$ je azimutální index a $r$ je radiální index)  ⇒ Lineárně polarizované (LP) vidy
 
-![Disperzní křivky vidů LP se step-index](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_101610.png)
+![Disperzní křivky vidů LP se step-index](10Vlnovody/Snmek_obrazovky_2025-08-15_101610.png)
 
 Disperzní křivky vidů LP se step-index
 
-![Rozložení pole nejnižších vidů LP](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_101654.png)
+![Rozložení pole nejnižších vidů LP](10Vlnovody/Snmek_obrazovky_2025-08-15_101654.png)
 
 Rozložení pole nejnižších vidů LP
 
@@ -234,15 +234,15 @@ Spojují se svářením, uhlíkovým provázkem, wolframem a nebo konektory - ty
 
 Spojnice dvou vláken se zaoblí ⇒ snížení efektu Newtonových kroužků (interferenční obrazce)
 
-![Snímek obrazovky 2025-08-15 102034.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_102034.png)
+![Snímek obrazovky 2025-08-15 102034.png](10Vlnovody/Snmek_obrazovky_2025-08-15_102034.png)
 
-![Snímek obrazovky 2025-08-15 102053.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_102053.png)
+![Snímek obrazovky 2025-08-15 102053.png](10Vlnovody/Snmek_obrazovky_2025-08-15_102053.png)
 
 ## Útlum konvenčních vláken
 
 Shrnuje to následující obrázek
 
-![V kratších vlnových délkách tam hraje roli Rayleighův rozptyl](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_103450.png)
+![V kratších vlnových délkách tam hraje roli Rayleighův rozptyl](10Vlnovody/Snmek_obrazovky_2025-08-15_103450.png)
 
 V kratších vlnových délkách tam hraje roli Rayleighův rozptyl
 
@@ -296,7 +296,7 @@ Během šíření signálu  se frekvence mění lineárně (lineární frekvenč
 
 **Anomální disperze** - vyšší frekvence se šíří rychleji
 
-![Snímek obrazovky 2025-08-15 111038.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_111038.png)
+![Snímek obrazovky 2025-08-15 111038.png](10Vlnovody/Snmek_obrazovky_2025-08-15_111038.png)
 
 Vždy budeme mít nějakou disperzi (vyšší řády) a disperze se získává nejen z materiálu, ale i vlnovodu
 
@@ -317,7 +317,7 @@ Před nimi byly elektronické zesilovače → nutnost detekovat signál a funguj
 
 Přechod na Erbium Doped Fiber Amplifier (EDFA)
 
-![Optický izolátor - propouští záření v 1 směru (v druhém je silný útlum); Vazební člen - spektrálně závislý, navazuje vlnové délky](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_160352.png)
+![Optický izolátor - propouští záření v 1 směru (v druhém je silný útlum); Vazební člen - spektrálně závislý, navazuje vlnové délky](10Vlnovody/Snmek_obrazovky_2025-08-15_160352.png)
 
 Optický izolátor - propouští záření v 1 směru (v druhém je silný útlum); Vazební člen - spektrálně závislý, navazuje vlnové délky
 
@@ -344,13 +344,13 @@ Podmínka, že zisk aktivního média kompenzuje ztráty + fázový synchronizmu
 
 Typicky se využívá Fabry-Perotův rezonátor
 
-![FBG - Bragg. mřížky](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_161301.png)
+![FBG - Bragg. mřížky](10Vlnovody/Snmek_obrazovky_2025-08-15_161301.png)
 
 FBG - Bragg. mřížky
 
 Je možnost i kruhového rezonátoru
 
-![Optický rezonátor - na Faraday. principu → jinak by vznikly svázané vlnové délky](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_161526.png)
+![Optický rezonátor - na Faraday. principu → jinak by vznikly svázané vlnové délky](10Vlnovody/Snmek_obrazovky_2025-08-15_161526.png)
 
 Optický rezonátor - na Faraday. principu → jinak by vznikly svázané vlnové délky
 
@@ -360,7 +360,7 @@ Využívá se Er,Yb, Pr, Tm
 
 Dají se čerpat skrz plášť →  vnitřní plášť slouží jako mnohovidové vlákno pro čerpací záření → aby se to dobře čerpalo musí se ty průřezy trošku zchaotit
 
-![Snímek obrazovky 2025-08-15 162017.png](Optick%C3%A9%20vlnovody%20249ae1c2f208804a9aa0db97824bec07/Snmek_obrazovky_2025-08-15_162017.png)
+![Snímek obrazovky 2025-08-15 162017.png](10Vlnovody/Snmek_obrazovky_2025-08-15_162017.png)
 
 Využívají se v optických komunikací, v medicíně, zpracování materiálu, LIDAR a v Ramanovské spektroskopii
 

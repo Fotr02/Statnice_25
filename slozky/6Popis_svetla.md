@@ -10,9 +10,9 @@
 
 Světlo může být popsáno jako elektromagnetická vlna.
 
-Magnetické a elektrické pole jsou svázány sériemi [Maxwellových rovnic](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd.md), ze kterých je možné odvodit [vlnovou rovnici](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd.md).
+Magnetické a elektrické pole jsou svázány sériemi [Maxwellových rovnic](6Popis_svetla.md), ze kterých je možné odvodit [vlnovou rovnici](6Popis_svetla.md).
 
-![Snímek obrazovky 2025-08-10 124545.png](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd/Snmek_obrazovky_2025-08-10_124545.png)
+![Snímek obrazovky 2025-08-10 124545.png](6Popis_svetla/Snmek_obrazovky_2025-08-10_124545.png)
 
 - Historicky to šlo - Paprsková → Vlnová → Elektromagnetická → Kvantová optika
 
@@ -131,7 +131,7 @@ Každé řešení vlnové rovnice se nazývá vlnou. Jedním z nejlehčích ře�
 
 ## Helmholtzova lineární  vlnová rovnice
 
-Pokud budeme uvažovat partikulární řešení [vlnové rovnice](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd.md) pro **časovou harmonickou vlnu,** kde využijeme  vztah $\mathcal E = \text{Re}\left\{ \mathbf{E}(r)e^{i\omega t} \right\}$ (přecházíme ke komplexním veličinám) ****→ dostaneme **HR**
+Pokud budeme uvažovat partikulární řešení [vlnové rovnice](6Popis_svetla.md) pro **časovou harmonickou vlnu,** kde využijeme  vztah $\mathcal E = \text{Re}\left\{ \mathbf{E}(r)e^{i\omega t} \right\}$ (přecházíme ke komplexním veličinám) ****→ dostaneme **HR**
 
 $$
 \nabla^2 \mathbf{E}(r) + k_0^2\mathbf{E}(r) = 0 \qquad k_0 = \dfrac{\omega}{c_0}
@@ -185,7 +185,7 @@ $$
 
 Z tohoto plyne, že veličiny  $\mathbf E , \mathbf H$ a $\mathbf k$ tvoří **ortogonální pravotočivý systém**.
 
-![Snímek obrazovky 2025-08-10 162250.png](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd/Snmek_obrazovky_2025-08-10_162250.png)
+![Snímek obrazovky 2025-08-10 162250.png](6Popis_svetla/Snmek_obrazovky_2025-08-10_162250.png)
 
 </aside>
 
@@ -225,7 +225,7 @@ $$
 \tan 2\alpha = \frac{2E_{x0}E_{y0}}{E^2_{x0} - E^2_{y0}}
 $$
 
-![Snímek obrazovky 2025-08-10 163620.png](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd/Snmek_obrazovky_2025-08-10_163620.png)
+![Snímek obrazovky 2025-08-10 163620.png](6Popis_svetla/Snmek_obrazovky_2025-08-10_163620.png)
 
 Stav polarizace harmonické vlny lze charakterizovat součinitelem polarizace
 
@@ -237,7 +237,7 @@ Stav polarizace jde také určit pomocí **Stockesových parametrů** (mezi ampl
 
 Stokesovy parametry se dají hezky hodit na Poincarého kouli 
 
-![koule_yeeaah.png](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd/4c62791c-85f5-408f-a2cb-1df8494cb2ef.png)
+![koule_yeeaah.png](6Popis_svetla/4c62791c-85f5-408f-a2cb-1df8494cb2ef.png)
 
 ### Orientace otáčení
 
@@ -442,16 +442,16 @@ kde $N$ je počet molekul, $F_j$ má smysl váhového faktoru
 
 ### Normální a anomální disperze
 
-Pokud budeme pracovat s [rovnicí](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd.md), tak nastanou dva případy
+Pokud budeme pracovat s [rovnicí](6Popis_svetla.md), tak nastanou dva případy
 
 1. $\omega \to \omega_{0j}$ → index lomu roste s kmitočtem; grupová rychlost je menší jak fázová → **Normální disperze (*disperzní křivka je konkávní - ZAOP*)**
 2. $\omega\approx \omega_{0j}$ → útlumový člen je dominantní a vznikají absorpční pásy, index lomu klesá s kmitočtem; grupová je menší jak fázová → **Anomální disperze (*disperzní křivka je konvexní*)**
 
-![Reálná část indexu lomu](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd/Snmek_obrazovky_2025-08-10_202251.png)
+![Reálná část indexu lomu](6Popis_svetla/Snmek_obrazovky_2025-08-10_202251.png)
 
 Reálná část indexu lomu
 
-![Imaginární část indexu lomu - absorpce](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd/Snmek_obrazovky_2025-08-10_202834.png)
+![Imaginární část indexu lomu - absorpce](6Popis_svetla/Snmek_obrazovky_2025-08-10_202834.png)
 
 Imaginární část indexu lomu - absorpce
 
@@ -463,7 +463,7 @@ Imaginární část indexu lomu - absorpce
 
 # Vliv materiálu
 
-Tak jak jsme si popsali MR [ZDE](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd.md) nebyl úplný popis,
+Tak jak jsme si popsali MR [ZDE](6Popis_svetla.md) nebyl úplný popis,
 
 Jelikož MR je série 8 skalárních rovnic pro 4 vektory pole. Čtyři homogenní MR je možné vyřešit vyjádřením intenzity elektrického pole a magnetické indukce pomocí skalárního potenciálu a vektorového potenciálu → na nehomogenní tvar bychom museli znát materiálové vztahy
 
@@ -544,13 +544,13 @@ Podle toho jaké je působené vnější polí, tak můžeme odlišit
     2. Budou se lišit směry šíření fázové a grupové rychlosti
     3. Jak vypadají polohy základních vektorů
     
-    ![Snímek obrazovky 2025-08-11 211935.png](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd/Snmek_obrazovky_2025-08-11_211935.png)
+    ![Snímek obrazovky 2025-08-11 211935.png](6Popis_svetla/Snmek_obrazovky_2025-08-11_211935.png)
     
 3. Magneticky anizotropní
     1. permitivita je skalár, ….
     2. Jak vypadají polohy základních vektorů
     
-    ![Snímek obrazovky 2025-08-11 212157.png](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd/Snmek_obrazovky_2025-08-11_212157.png)
+    ![Snímek obrazovky 2025-08-11 212157.png](6Popis_svetla/Snmek_obrazovky_2025-08-11_212157.png)
     
 
 Dělí podle symetrie tenzorů prostředí:

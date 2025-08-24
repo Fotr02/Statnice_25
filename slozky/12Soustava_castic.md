@@ -162,7 +162,7 @@ $$
 
 která je **matematickým vyjádřením druhé věty impulsové - věta momentu hybnosti soustavy částic**
 
-![Snímek obrazovky 2025-08-17 203514.png](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51/Snmek_obrazovky_2025-08-17_203514.png)
+![Snímek obrazovky 2025-08-17 203514.png](12Soustava_castic/Snmek_obrazovky_2025-08-17_203514.png)
 
 **Časová změna celkového momentu hybnosti soustavy částic je rovna výslednému momentu vnějších sil**
 
@@ -386,7 +386,7 @@ $$
 r_{min}^\prime = \frac{l^2}{2Gm^2M}
 $$
 
-![Průběh potenciální energie + jsou vidět různé energetické hladiny; pro E< 0 - finitní pohyb, Síla míří k centru](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51/Snmek_obrazovky_2025-08-18_215924.png)
+![Průběh potenciální energie + jsou vidět různé energetické hladiny; pro E< 0 - finitní pohyb, Síla míří k centru](12Soustava_castic/Snmek_obrazovky_2025-08-18_215924.png)
 
 Průběh potenciální energie + jsou vidět různé energetické hladiny; pro E< 0 - finitní pohyb, Síla míří k centru
 
@@ -455,9 +455,9 @@ $$
 m_1\mathbf r_{1s}+m_2\mathbf r_{2s}= \mathbf 0 \qquad \mathbf r_{1s} - \mathbf r_{2s} = \mathbf r
 $$
 
-![Snímek obrazovky 2025-08-17 220514.png](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51/Snmek_obrazovky_2025-08-17_220514.png)
+![Snímek obrazovky 2025-08-17 220514.png](12Soustava_castic/Snmek_obrazovky_2025-08-17_220514.png)
 
-![Schéma tohoto problému](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51/Snmek_obrazovky_2025-08-17_203514%201.png)
+![Schéma tohoto problému](12Soustava_castic/Snmek_obrazovky_2025-08-17_203514%201.png)
 
 Schéma tohoto problému
 
@@ -465,7 +465,7 @@ V těžišťové soustavě jsou oba polohové vektory vždy kolineární, část
 
 $\mathbf r$ značí vektor spojující obě částice (označí se $\mathbf v = \frac{d\mathbf r }{dt}$)
 
-Řešením [soustavy](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51.md) rovnic →
+Řešením [soustavy](12Soustava_castic.md) rovnic →
 
 $$
 \begin{split}\mathbf r_{1s} &= \frac{m_2}{m_1+m_2} \mathbf r \\\mathbf r_{2s} &= -\frac{m_1}{m_1+m_2} \mathbf r \\\mathbf v_{1s} &= \mathbf v_1 - \mathbf v_s = \frac{m_2}{m_1+m_2} \mathbf v\\\mathbf v_{12s} &= \mathbf v_2 - \mathbf v_s = -\frac{m_1}{m_1+m_2} \mathbf v\\\mathbf v_s &= \frac{m_1\mathbf v_1 + m_2\mathbf v_2}{m_1 + m_2}
@@ -480,7 +480,7 @@ $$
 E_s = \frac{1}{2} m_1 v_{1s}^2 + \frac{1}{2} m_2 v_{2s}^2 + U(r) = \frac{1}{2} m_r v^2 + U(r) \qquad m_r = \frac{m_1m_2}{m_1+m_2}
 $$
 
-Dosadili jsme polohové vektory a rychlosti [ZDE](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51.md) a zavedli jsme redukovanou hmotnost $m_r$
+Dosadili jsme polohové vektory a rychlosti [ZDE](12Soustava_castic.md) a zavedli jsme redukovanou hmotnost $m_r$
 
 **Převedení úlohy 2 těles na úlohu o pohybu 1 tělesa o redukované hmotnosti pohybujícího se v centrálním silovém poli $U(r)$**
 
@@ -504,25 +504,25 @@ Když $m_1>>m_2$, pak $m_r \approx m_2$ → v limitě se dostává případ nehy
 
 Těžiště zůstává nehybné v blízkosti středu těžkého tělesa → nicméně Slunce se taky pohybuje → dělá složité periodické pohyby kolem těžiště Sluneční soustavy (pohyb vrhače sportovního kladiva)
 
-![Snímek obrazovky 2025-08-17 222556.png](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51/Snmek_obrazovky_2025-08-17_222556.png)
+![Snímek obrazovky 2025-08-17 222556.png](12Soustava_castic/Snmek_obrazovky_2025-08-17_222556.png)
 
 ## Stejně těžká tělesa
 
-Redukovaná hmotnost pak bude $m_r = \frac{1}{2}m$ ($m$ je teď jedna hmotnost obou těles) → třeba [dvojhvězdy](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51.md)
+Redukovaná hmotnost pak bude $m_r = \frac{1}{2}m$ ($m$ je teď jedna hmotnost obou těles) → třeba [dvojhvězdy](12Soustava_castic.md)
 
 Bude-li vzdálenost mezi tělesy konstantní → budou se stíhat po obvodu kružnice
 
-Uzavřená trajektorie může existovat jen v případě gravitační přitažlivé síly (přesně $1/r^2$) → působí-li na těleso další poruchy → dojde ke stáčení perihelia a bude to vypadat nějak [takhle](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51.md)
+Uzavřená trajektorie může existovat jen v případě gravitační přitažlivé síly (přesně $1/r^2$) → působí-li na těleso další poruchy → dojde ke stáčení perihelia a bude to vypadat nějak [takhle](12Soustava_castic.md)
 
-![Snímek obrazovky 2025-08-17 223550.png](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51/Snmek_obrazovky_2025-08-17_223550.png)
+![Snímek obrazovky 2025-08-17 223550.png](12Soustava_castic/Snmek_obrazovky_2025-08-17_223550.png)
 
-![Příklad takového pohybu](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51/Snmek_obrazovky_2025-08-17_223143.png)
+![Příklad takového pohybu](12Soustava_castic/Snmek_obrazovky_2025-08-17_223143.png)
 
 Příklad takového pohybu
 
 Pokud síly jsou třeba $1/r^{2.5}$ či $1/r^{1.5}$ → tak to udělá
 
-![Snímek obrazovky 2025-08-17 223558.png](Mechanika%20soustavy%20%C4%8D%C3%A1stic%2024eae1c2f20880678127e8e380224c51/Snmek_obrazovky_2025-08-17_223558.png)
+![Snímek obrazovky 2025-08-17 223558.png](12Soustava_castic/Snmek_obrazovky_2025-08-17_223558.png)
 
 ## Jak se změní Keplerova úloha
 

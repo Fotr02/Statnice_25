@@ -9,7 +9,7 @@ Skoro ve všech pracích (průmyslové, vojenské, medicínské…) je nutné m�
 
 Tak vysoké energie ze samotného oscilátoru nedostaneme (ten určuje délku impulzu, divergenci a spektrální šířku) → nutnost použití laserových zesilovačů
 
-![Schématický příklad, jak může zesilovač vypadat.](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_131254.png)
+![Schématický příklad, jak může zesilovač vypadat.](5Zesilovac/Snmek_obrazovky_2025-08-08_131254.png)
 
 Schématický příklad, jak může zesilovač vypadat.
 
@@ -32,11 +32,11 @@ $$
 
 Jak probíhá zesilování v konvenčních zesilovačích popisuje následující obrázek
 
-![Snímek obrazovky 2025-08-08 133902.png](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_133902.png)
+![Snímek obrazovky 2025-08-08 133902.png](5Zesilovac/Snmek_obrazovky_2025-08-08_133902.png)
 
 Toto je ovšem za předpokladu homogenně načerpaného AP.
 
-V první části se to zesiluje exponenciálně → pak lineárně → od určitého okamžiku dojde k [saturaci zesílení](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059.md). Je tedy dobré mít správnou délku AP, aby nedocházelo k velkým ztrátám (načerpáme celý krystal, ale využije se jen část načerpané energie). **Zisk je tedy dán délkou AP a energie je dána průměrem zesilovaného prostředí.**
+V první části se to zesiluje exponenciálně → pak lineárně → od určitého okamžiku dojde k [saturaci zesílení](5Zesilovac.md). Je tedy dobré mít správnou délku AP, aby nedocházelo k velkým ztrátám (načerpáme celý krystal, ale využije se jen část načerpané energie). **Zisk je tedy dán délkou AP a energie je dána průměrem zesilovaného prostředí.**
 
 <aside>
 🤔
@@ -143,7 +143,7 @@ kde $\beta$ je materiálový parametr.
 
 - **Nehomogenní čerpání**
     
-    Rozložení [storované energie](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059.md) v AP není homogenní. Načerpanost daného AP postupně klesá od povrchu.
+    Rozložení [storované energie](5Zesilovac.md) v AP není homogenní. Načerpanost daného AP postupně klesá od povrchu.
     
 - **Nehomogenita aktivního prostředí**
     
@@ -194,7 +194,7 @@ kde $\beta$ je materiálový parametr.
     
     Máme exp. zesílení → pak může výstupní signál vypadat
     
-    ![1 je vstupující; 2-3 jsou po průchodu ruznými zesilovači](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_154946.png)
+    ![1 je vstupující; 2-3 jsou po průchodu ruznými zesilovači](5Zesilovac/Snmek_obrazovky_2025-08-08_154946.png)
     
     1 je vstupující; 2-3 jsou po průchodu ruznými zesilovači
     
@@ -239,7 +239,7 @@ Tedy vnitřní módy, které se šíří pomocí odrazů v AP.
 
 Kolem zesíleného impulzu jsou nežádoucí pre/post-pulzy (nazývají se občas satelitní).
 
-![Snímek obrazovky 2025-08-08 164424.png](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_164424.png)
+![Snímek obrazovky 2025-08-08 164424.png](5Zesilovac/Snmek_obrazovky_2025-08-08_164424.png)
 
 # Typy zesilovacích systémů
 
@@ -247,15 +247,15 @@ Kolem zesíleného impulzu jsou nežádoucí pre/post-pulzy (nazývají se obča
     
     Nutnost správného načasování 
     
-    ![Snímek obrazovky 2025-08-08 162144.png](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_162144.png)
+    ![Snímek obrazovky 2025-08-08 162144.png](5Zesilovac/Snmek_obrazovky_2025-08-08_162144.png)
     
 - **Více-průchodové 💘**
     
     Využívá se mnoha odrazů od načerpaného AP - jiné dráhy, takže není takový tlak na jednotlivých elementech → ale nutnost hodně elementů
     
-    ![Snímek obrazovky 2025-08-08 162229.png](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_162229.png)
+    ![Snímek obrazovky 2025-08-08 162229.png](5Zesilovac/Snmek_obrazovky_2025-08-08_162229.png)
     
-    ![Snímek obrazovky 2025-08-08 162657.png](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_162657.png)
+    ![Snímek obrazovky 2025-08-08 162657.png](5Zesilovac/Snmek_obrazovky_2025-08-08_162657.png)
     
 - **Regenerativní**
     
@@ -263,7 +263,7 @@ Kolem zesíleného impulzu jsou nežádoucí pre/post-pulzy (nazývají se obča
     
     Po dostatečných průchodech se sepne nějaký element (Pockels, polarizátory…) a vyjde zesílený impulz.
     
-    ![Snímek obrazovky 2025-08-08 162544.png](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_162544.png)
+    ![Snímek obrazovky 2025-08-08 162544.png](5Zesilovac/Snmek_obrazovky_2025-08-08_162544.png)
     
 - **CPA - Chirped Pulse Amplification**
     
@@ -271,11 +271,11 @@ Kolem zesíleného impulzu jsou nežádoucí pre/post-pulzy (nazývají se obča
     
     Jak se prodlužuje:
     
-    ![Snímek obrazovky 2025-08-08 163036.png](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_163036.png)
+    ![Snímek obrazovky 2025-08-08 163036.png](5Zesilovac/Snmek_obrazovky_2025-08-08_163036.png)
     
     Zkracuje se to mřížkovým kompresorem → zavádí negativní chirp → modrá “barva” má kratší dráhu 
     
-    ![Schéma](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_162849.png)
+    ![Schéma](5Zesilovac/Snmek_obrazovky_2025-08-08_162849.png)
     
     Schéma
     
@@ -285,7 +285,7 @@ Kolem zesíleného impulzu jsou nežádoucí pre/post-pulzy (nazývají se obča
     
     Hrubé schéma jde vidět na následujícím obrázku
     
-    ![Snímek obrazovky 2025-08-08 163914.png](Laserov%C3%BD%20zesilova%C4%8D%20245ae1c2f20880d1b95fdbbb262f1059/Snmek_obrazovky_2025-08-08_163914.png)
+    ![Snímek obrazovky 2025-08-08 163914.png](5Zesilovac/Snmek_obrazovky_2025-08-08_163914.png)
     
     Dvě podmínky vpravo jsou nutnosti, které se musí splnit → zákon zachování energie fotonů a zákon zachování hybnosti fototů (fázový synchronizmus) (idleru se říká jalová část)
     

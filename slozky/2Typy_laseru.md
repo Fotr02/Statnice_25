@@ -2,7 +2,7 @@
 
 To klasické rozdělení je podle paní profesorky
 
-![Snímek obrazovky 2025-07-24 163205.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-24_163205.png)
+![Snímek obrazovky 2025-07-24 163205.png](2Typy_laseru/Snmek_obrazovky_2025-07-24_163205.png)
 
 **Ještě jiná klasifikace je**
 
@@ -27,7 +27,7 @@ To klasické rozdělení je podle paní profesorky
 - Ultrafialové
 - Rentgenové
 
-![Rozdělení vlnových délek](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-24_163607.png)
+![Rozdělení vlnových délek](2Typy_laseru/Snmek_obrazovky_2025-07-24_163607.png)
 
 Rozdělení vlnových délek
 
@@ -61,13 +61,13 @@ Některé se zase dělí podle délky gen. impulzu
 
 - **Docela šikovný je tenhle obrázek**
     
-    ![Obecný přehled využívaných laserů a jejich vlnových délek](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-24_164247.png)
+    ![Obecný přehled využívaných laserů a jejich vlnových délek](2Typy_laseru/Snmek_obrazovky_2025-07-24_164247.png)
     
     Obecný přehled využívaných laserů a jejich vlnových délek
     
     - Další šikovný obrázek
         
-        ![přehledy.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/pehledy.png)
+        ![přehledy.png](2Typy_laseru/pehledy.png)
         
     
     Dále jsou důležité následující lasery (a jejich vlnové délky)
@@ -118,7 +118,7 @@ Základními částmi těchto laserů jsou:
     - **Buzení**
     
 
-![Schéma_pevn.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Schma_pevn.png)
+![Schéma_pevn.png](2Typy_laseru/Schma_pevn.png)
 
 Mělo by existovat okolo 620 laserových krystalů a keramik (se známými ionty).
 
@@ -228,7 +228,7 @@ Nejvíce se využívají:
 - Přechodové prvky s nezaplněnou slupkou 3d
 - Lanthanoidy (nezaplněná 4f) a aktinoidy (5f)
 
-![Oblíbený obrázek ](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-25_153414.png)
+![Oblíbený obrázek ](2Typy_laseru/Snmek_obrazovky_2025-07-25_153414.png)
 
 Oblíbený obrázek 
 
@@ -286,11 +286,11 @@ Metody jsou:
 
 Dobré vědět (nebo nakreslit) schéma tříhladinového/čtyřhladinového a kvazi-tříhladinového modelu (rozštěpení energetických hladin - základní hladina se rozštěpí tak, že spodní část bude 0 a horní 1)
 
-![Určitě jsou i lepší kvality obrázků… První dva jsou modely tříhladinového systému a pravé dva jsou modely čtyřhladinového systému.](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-29_152828.png)
+![Určitě jsou i lepší kvality obrázků… První dva jsou modely tříhladinového systému a pravé dva jsou modely čtyřhladinového systému.](2Typy_laseru/Snmek_obrazovky_2025-07-29_152828.png)
 
 Určitě jsou i lepší kvality obrázků… První dva jsou modely tříhladinového systému a pravé dva jsou modely čtyřhladinového systému.
 
-![přehledy.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/pehledy%201.png)
+![přehledy.png](2Typy_laseru/pehledy%201.png)
 
 </aside>
 
@@ -311,7 +311,7 @@ Mají široký emisní spektrum oproti absorpčním pásmům AP, proto je jejich
 
 Zbytek energie se přeměňuje na teplo a to je nutné chladit!
 
-![Příklady různých dutin.](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/geometrie.png)
+![Příklady různých dutin.](2Typy_laseru/geometrie.png)
 
 Příklady různých dutin.
 
@@ -319,13 +319,13 @@ Příklady různých dutin.
 
 Mezi koherentní zdroje patří laserové diody, “či jiné lasery (Ti:Safír)”. Mají delší životnost, větší účinnosti konverzí a hlavně užší spektra. Používá se menších napětí než u výbojek. Laserové diody emitují záření od $300\, n\text{m}$ do $2\, \mu\text{m}$ (dál už je to takový nejistý - uvádějí se, ale nejsou moc věrohodný). 
 
-![image.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/image.png)
+![image.png](2Typy_laseru/image.png)
 
 ---
 
 Využívají se **podélné** a **příčné** uspořádání. Nicméně existují další konfigurace (například u tenkého disku), které můžou spadat mezi ty dvě základní.
 
-![Čerpání tenkodiskového materiálu.](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/PumpikTinkdik.png)
+![Čerpání tenkodiskového materiálu.](2Typy_laseru/PumpikTinkdik.png)
 
 Čerpání tenkodiskového materiálu.
 
@@ -338,7 +338,7 @@ U podélných uspořádání lze dobře nastavit překryv načerpané oblasti a 
 
 U podélných uspořádání lze dobře nastavit překryv načerpané oblasti a základního módu rezonátoru. Docela jednoduché na nastavení. **Problém s čerpáním, jelikož čerpání prochází skrz zrcadlo a to musí být dichroické.**
 
-![rodikpumpik.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/rodikpumpik.png)
+![rodikpumpik.png](2Typy_laseru/rodikpumpik.png)
 
 </aside>
 
@@ -349,11 +349,11 @@ U podélných uspořádání lze dobře nastavit překryv načerpané oblasti a 
 
 U příčných uspořádání se nečerpá skrz vstupní zrcadlo. Nutnost speciální konfigurací, aby bylo dosaženo co největší účinnosti. **Těžké získat základní mód u vyšších výkonů**.
 
-![Zde jde efektivně využívat laserová diodová pole (1D či 2D)](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/fb08845b-682b-4991-8e12-f57a71cb5021.png)
+![Zde jde efektivně využívat laserová diodová pole (1D či 2D)](2Typy_laseru/fb08845b-682b-4991-8e12-f57a71cb5021.png)
 
 Zde jde efektivně využívat laserová diodová pole (1D či 2D)
 
-![side_pumped_laser.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/side_pumped_laser.png)
+![side_pumped_laser.png](2Typy_laseru/side_pumped_laser.png)
 
 </aside>
 
@@ -415,7 +415,7 @@ Příklady **luminiscenčních barviv**:
 
 Nejznámější barvivová molekula **Rhodamin B (a nejznámější AP Rhodamin 6G - xanteny)**. Ionty se mohou přidat i do pevné látky.
 
-![Diagram energetických hladin ](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-30_105225.png)
+![Diagram energetických hladin ](2Typy_laseru/Snmek_obrazovky_2025-07-30_105225.png)
 
 Diagram energetických hladin 
 
@@ -425,7 +425,7 @@ Z diagramu energetických hladin vyplývá, že každý elektronický stav obsah
 
 Proto se jim občas říká **Přeladitelné lasery**.
 
-Rozsah vlnových délek je vidět [ZDE](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891.md). 
+Rozsah vlnových délek je vidět [ZDE](2Typy_laseru.md). 
 
 <aside>
 <img src="https://www.notion.so/icons/log-in_green.svg" alt="https://www.notion.so/icons/log-in_green.svg" width="40px" />
@@ -506,7 +506,7 @@ AP se dělí podle toho, mezi kterými hladinami se vytváří populace inverse:
     Generace záření na několika vlnových délkách (VIS a NIR). Požadavky na prahové budící výkony.
     
     - **Argonový laser**
-        - Vlnové délky [ZDE](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891.md)
+        - Vlnové délky [ZDE](2Typy_laseru.md)
         - Buzení silným elektrickým výbojem
     - **Helium-Kadmiový laser**
         - AP jsou ionty kovu kadmina
@@ -652,7 +652,7 @@ Vytváří se úpravou struktury polovodičového materiálu do tvaru otevřené
 
 Rozdíl indexu lomu na rozhraní polovodič-vzduch - reflektance na rozhraní
 
-![Snímek obrazovky 2025-07-30 214543.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-30_214543.png)
+![Snímek obrazovky 2025-07-30 214543.png](2Typy_laseru/Snmek_obrazovky_2025-07-30_214543.png)
 
 Zpětnou vazbu tvoří obvykle štěpné krystalové plochy nebo 2 rovnoběžně leštěné povrchy krystalu kolmé k rovině přechodu.
 
@@ -668,7 +668,7 @@ Zpětnou vazbu tvoří obvykle štěpné krystalové plochy nebo 2 rovnoběžně
 - **Velké optické zesílení**
 - **Malé rozměry rezonátoru - kompaktnost**
 - **Možnosti spektrálního přeladění v širokém spektrálním pásmu výběrem polovodičového materiálu**
-- **Rozsah vlnových délek [ZDE](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891.md)**
+- **Rozsah vlnových délek [ZDE](2Typy_laseru.md)**
 - **Vysoké účinnosti**
 - **Provoz v pulzním i v kontinuálním režimu**
 - **Relativně velký výstupní výkon**
@@ -822,7 +822,7 @@ Aktivní prostředí má vysoký součinitel zesílení → **Generované záře
 
 ### Interakce záření s tkání
 
-![Snímek obrazovky 2025-07-31 091638.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-31_091638.png)
+![Snímek obrazovky 2025-07-31 091638.png](2Typy_laseru/Snmek_obrazovky_2025-07-31_091638.png)
 
 - **Doba expozice**
     
@@ -835,6 +835,6 @@ Aktivní prostředí má vysoký součinitel zesílení → **Generované záře
     Tkáně měkké - ostatní tkáně (tekutiny, krev, …)
     
 
-![Snímek obrazovky 2025-07-31 092207.png](Typy%20laser%C5%AF%20podle%20aktivn%C3%ADho%20prost%C5%99ed%C3%AD%20a%20jejich%20apl%2023aae1c2f208805c9c8ae7bc80974891/Snmek_obrazovky_2025-07-31_092207.png)
+![Snímek obrazovky 2025-07-31 092207.png](2Typy_laseru/Snmek_obrazovky_2025-07-31_092207.png)
 
 </aside>

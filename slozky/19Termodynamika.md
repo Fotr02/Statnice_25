@@ -175,7 +175,7 @@ $$
 
 ### Co z toho plyne
 
-Je-li soustava izolovaná ([rovnice](Termodynamika%2024eae1c2f20880c19b5be38f46acc7a3.md) je rovna 0) →vnitřní energie zůstává v této soustavě konstantní (ať si probíhají děje nebo ne)
+Je-li soustava izolovaná ([rovnice](19Termodynamika.md) je rovna 0) →vnitřní energie zůstává v této soustavě konstantní (ať si probíhají děje nebo ne)
 
 Je-li soustava adiabatická ($\delta Q = 0$) → koná adiabaticky práci na úkor vnitřní energie
 
@@ -228,7 +228,7 @@ Poslední formulace je nejvíc výhodný na matematický popis → dává omezen
 
 Nejvýznamnější cyklus s kladnou prací je konán Carnotovým tepelným strojem → v $(p,V)$  diagramu vypadá následovně
 
-![Snímek obrazovky 2025-08-23 170148.png](Termodynamika%2024eae1c2f20880c19b5be38f46acc7a3/38d76c1f-281b-4706-8cae-261467df44cf.png)
+![Snímek obrazovky 2025-08-23 170148.png](19Termodynamika/38d76c1f-281b-4706-8cae-261467df44cf.png)
 
 Skládá se ze 4 dějů
 
@@ -259,7 +259,7 @@ Jediná možnost pro maximální účinnost je mít $Q_{34}$ (out) = 0 → to ne
 
 V $(T,S)$ diagramu to vypadá
 
-![To šrafovaný je Carnotův cyklus](Termodynamika%2024eae1c2f20880c19b5be38f46acc7a3/Snmek_obrazovky_2025-08-23_172209.png)
+![To šrafovaný je Carnotův cyklus](19Termodynamika/Snmek_obrazovky_2025-08-23_172209.png)
 
 To šrafovaný je Carnotův cyklus
 
@@ -359,7 +359,7 @@ Konstanta $S_0$ nezávisí na $T,V$ →jedná se o absolutní konstantu (nezávi
 
 Kdyby tedy nebyla závislá na látkovém množství $n$ → dělá se myšlenkový experiment
 
-![Snímek obrazovky 2025-08-23 184532.png](Termodynamika%2024eae1c2f20880c19b5be38f46acc7a3/Snmek_obrazovky_2025-08-23_184532.png)
+![Snímek obrazovky 2025-08-23 184532.png](19Termodynamika/Snmek_obrazovky_2025-08-23_184532.png)
 
 Změna entropie by měla být nulová (makroskopicky nedochází ke změně - bariéra je myšlená) → když se to rozepíše → $\Delta S_{if}\neq 0$  (pro nenulové $n_1,n_2$) → **Gibbsův paradox**
 
@@ -489,7 +489,7 @@ $$
 F = U - \left( \frac{\partial U}{\partial S}\right)_{V,N} S = U-TS
 $$
 
-Diferenciál bude (diferenciál vnitřní energie známe - [výše](Termodynamika%2024eae1c2f20880c19b5be38f46acc7a3.md))
+Diferenciál bude (diferenciál vnitřní energie známe - [výše](19Termodynamika.md))
 
 $$
 dF = dU -d(TS) = -SdT - pdV + \mu dN
@@ -520,7 +520,7 @@ $$
 H = U - \left( \frac{\partial U}{\partial V}\right)_{S,N} V = U+pV
 $$
 
-Diferenciál bude (diferenciál vnitřní energie známe - [výše](Termodynamika%2024eae1c2f20880c19b5be38f46acc7a3.md))
+Diferenciál bude (diferenciál vnitřní energie známe - [výše](19Termodynamika.md))
 
 $$
 dH = dU +d(pV) = TdS + Vdp + \mu dN
@@ -551,7 +551,7 @@ $$
 G = U - \left( \frac{\partial U}{\partial S}\right)_{V,N} S - \left( \frac{\partial U}{\partial V}\right)_{S,N} V = U- TS + pV
 $$
 
-Diferenciál bude (diferenciál vnitřní energie známe - [výše](Termodynamika%2024eae1c2f20880c19b5be38f46acc7a3.md))
+Diferenciál bude (diferenciál vnitřní energie známe - [výše](19Termodynamika.md))
 
 $$
 dG = dU -d(TS)+ d(pV) = -SdT + Vdp + \mu dN
@@ -580,7 +580,7 @@ $$
 \Omega = U - \left( \frac{\partial U}{\partial S}\right)_{V,N} S - \left( \frac{\partial U}{\partial N}\right)_{S,V} V = U- TS  - \mu N
 $$
 
-Diferenciál bude (diferenciál vnitřní energie známe - [výše](Termodynamika%2024eae1c2f20880c19b5be38f46acc7a3.md))
+Diferenciál bude (diferenciál vnitřní energie známe - [výše](19Termodynamika.md))
 
 $$
 d\Omega = dU -d(TS)- d(\mu N) = -SdT - pdV - N d\mu

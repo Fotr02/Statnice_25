@@ -51,11 +51,11 @@ $$
 
 Z malých výchylek ještě vyplývá aproximace sinus atd..
 
-![Délka nenatažené pružiny je $a_0$](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_123359.png)
+![Délka nenatažené pružiny je $a_0$](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_123359.png)
 
 Délka nenatažené pružiny je $a_0$
 
-![Snímek obrazovky 2025-08-21 123405.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_123405.png)
+![Snímek obrazovky 2025-08-21 123405.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_123405.png)
 
 <aside>
 🔎
@@ -105,7 +105,7 @@ $$
 
 Dosadí se to do pohybových rovnic → udělají se kouzla 🪄 (úpravy, Lagrangeova věta o přírůstku) → pak se vzdálenost mezi dvěma závažími pošle k 0 →**Vlnová rovnice**
 
-![Snímek obrazovky 2025-08-21 125508.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_125508.png)
+![Snímek obrazovky 2025-08-21 125508.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_125508.png)
 
 $$
 \rho \frac{\partial^2 \psi}{\partial t^2}(z,t) = T \frac{\partial^2 \psi}{\partial z^2}(z,t)
@@ -126,7 +126,7 @@ $$
 
 # Kmity struny
 
-Při řešení těchto případů se pracuje s [vlnovou rovnicí](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3.md)
+Při řešení těchto případů se pracuje s [vlnovou rovnicí](16Vlny_disperzni.md)
 
 ## Pevné konce
 
@@ -172,7 +172,7 @@ $$
 
 Konstanty $A_m, \varphi_m$  jsou dány PP, vztahy mezi $k_m$ a $\omega_m$ → disperzní vztahy →dány vlastnostmi fyzikálního systému
 
-![4 módy, které kmitají ve struně →tečkovaný jsou módy posunuté o polovinu časové periody](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_141908.png)
+![4 módy, které kmitají ve struně →tečkovaný jsou módy posunuté o polovinu časové periody](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_141908.png)
 
 4 módy, které kmitají ve struně →tečkovaný jsou módy posunuté o polovinu časové periody
 
@@ -188,7 +188,7 @@ $$
 \psi (z,0) = f(z) \qquad \frac{\partial \psi}{\partial t}(z,0) = g(z)
 $$
 
-Využije se tedy [obecného řešení](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3.md) → najdou se ty koeficienty
+Využije se tedy [obecného řešení](16Vlny_disperzni.md) → najdou se ty koeficienty
 
 ## Volné konce
 
@@ -272,7 +272,7 @@ $$
 
 Nazývá se to d’Alembertovo řešení vlnové rovnice → superpozice dvou proti sobě postupujících vln
 
-![Snímek obrazovky 2025-08-21 151147.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_151147.png)
+![Snímek obrazovky 2025-08-21 151147.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_151147.png)
 
 .
 
@@ -412,7 +412,7 @@ Kde nová funkce se nazývá impedance - jak přepočítat rychlost v daném bod
 
 Postupná vlna $\psi = A \cos(\omega t - kz)$ či $\hat \psi = Ae^{i(\omega t -kz)}$ se dá hezky nakreslit
 
-![Vlna se pohybuje s fázovou rychlostí $v_\varphi$](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_175547.png)
+![Vlna se pohybuje s fázovou rychlostí $v_\varphi$](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_175547.png)
 
 Vlna se pohybuje s fázovou rychlostí $v_\varphi$
 
@@ -452,9 +452,9 @@ To jak jsou závislé na sobě je dáno fyzikálním prostředím ($k(\omega), \
 - Je zdroj vlnění o úhlové frekvenci a $k(\omega)$  udává vlnové číslo vzniklého vlnění (vlnovou délku)
 - V prostředí se vybudí stojaté vlny o vlnovém čísle $k$, pak $\omega(k)$ řekne, s jakou úhlovou frekvencí budou kmitat
 
-![Snímek obrazovky 2025-08-21 202342.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_202342.png)
+![Snímek obrazovky 2025-08-21 202342.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_202342.png)
 
-![Snímek obrazovky 2025-08-21 202315.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_202315.png)
+![Snímek obrazovky 2025-08-21 202315.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_202315.png)
 
 <aside>
 🙂
@@ -533,7 +533,7 @@ $$
 
 Spektra těchto dvou stavů vypadají 
 
-![Snímek obrazovky 2025-08-21 205845.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_205845.png)
+![Snímek obrazovky 2025-08-21 205845.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_205845.png)
 
 ---
 
@@ -550,15 +550,15 @@ Vlnový balík má tvar nosné harmonické vlny o frekvenci $\omega_0$ → tahle
 
 Máme obdélníkové spektrum
 
-![Snímek obrazovky 2025-08-21 210933.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_210933.png)
+![Snímek obrazovky 2025-08-21 210933.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_210933.png)
 
-Spočítá se fourierova transformace tohoto spektra [pomocí](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3.md)  → následně se zjistí jak vypadá vlna po vyslání ze zdroje
+Spočítá se fourierova transformace tohoto spektra [pomocí](16Vlny_disperzni.md)  → následně se zjistí jak vypadá vlna po vyslání ze zdroje
 
 $$
 \psi(z,t) = A\Delta \omega \frac{\sin\left(\frac{\Delta\omega}2{t_r}\right)}{\frac{\Delta\omega}{2}t_r} \cos(\omega_0 t - k_0 z) \qquad t_r = t\frac{z}{v}
 $$
 
-![Snímek obrazovky 2025-08-21 210946.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_210946.png)
+![Snímek obrazovky 2025-08-21 210946.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_210946.png)
 
 </aside>
 
@@ -595,7 +595,7 @@ $$
 
 Pro lineární disperzní vztahy jsou tyto rychlosti stejné
 
-![Snímek obrazovky 2025-08-21 214530.png](Vlny%20v%20disperzn%C3%ADm%20a%20nedisperzn%C3%ADm%20prost%C5%99ed%C3%AD%2024eae1c2f20880f0bfaec65cdff738f3/Snmek_obrazovky_2025-08-21_214530.png)
+![Snímek obrazovky 2025-08-21 214530.png](16Vlny_disperzni/Snmek_obrazovky_2025-08-21_214530.png)
 
 Fázová rychlost je obecně rychlejší než grupová → grupová rychlost přenáší informaci (ten balík) → nemůže být rychlejší než rychlost světla
 

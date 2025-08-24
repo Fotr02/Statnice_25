@@ -94,7 +94,7 @@ $$
 
 →zrychlení je tedy všude stejné (síly v obou soustavách jsou stejné)
 
-![Snímek obrazovky 2025-08-17 100310.png](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c/Snmek_obrazovky_2025-08-17_100310.png)
+![Snímek obrazovky 2025-08-17 100310.png](11Dynamika_pohybu/Snmek_obrazovky_2025-08-17_100310.png)
 
 </aside>
 
@@ -117,7 +117,7 @@ $$
 
 Působí-li na těleso nějaká vnější síla, pohybuje se těleso se zrychlením, které je nepřímo úměrné hmotnosti a přímo úměrné vtištěné síle.
 
-Umožňuje napsat [**pohybovou rovnici částice**](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c.md)
+Umožňuje napsat [**pohybovou rovnici částice**](11Dynamika_pohybu.md)
 
 Definoval množství pohybu → $\vec p = m\vec v$ (hybnost) → pro konstantní hmotnost (setrvačná hmotnost) dostaneme ze zákona (konst. úměrnosti se bere 1)
 
@@ -144,7 +144,7 @@ Vážením určujeme hmotnost gravitační (na rotující Zemi máme hmotnost t�
 
 Experimentální poznatek: na Zemi ve vakuu padají všechna tělesa (bez ohledu na hmotnost) se stejným zrychlením
 
-Na [PS](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c.md) vystupuje síla → za její definici lze považovat zákon síly, ale ! musíme udat nezávislý způsob jak tuto sílu změřit a matematicky vyjádřit ! → Newton stanovil **gravitační zákon**
+Na [PS](11Dynamika_pohybu.md) vystupuje síla → za její definici lze považovat zákon síly, ale ! musíme udat nezávislý způsob jak tuto sílu změřit a matematicky vyjádřit ! → Newton stanovil **gravitační zákon**
 
 $$
 \vec F = \kappa \frac{M m }{r^2} \vec r_0,
@@ -229,7 +229,7 @@ $$
 \vec I = \langle \vec F \rangle\tau =\frac{1}{\tau} \int_{t_1}^{t_2}\vec F dt \cdot \tau 
 $$
 
-![Snímek obrazovky 2025-08-17 134752.png](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c/Snmek_obrazovky_2025-08-17_134752.png)
+![Snímek obrazovky 2025-08-17 134752.png](11Dynamika_pohybu/Snmek_obrazovky_2025-08-17_134752.png)
 
 ### Práce a kinetická energie
 
@@ -301,7 +301,7 @@ Systém, který má parabolickou/kvadratickou závislost potenciální energie (
 
 ## Netlumený LHO
 
-Sílu a potenciální energii jsme si zapsali [ZDE](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c.md).
+Sílu a potenciální energii jsme si zapsali [ZDE](11Dynamika_pohybu.md).
 
 Pohybová rovnice bude
 
@@ -423,7 +423,7 @@ $$
 
 Dochází k periodickým kmitům, jejichž amplituda exponenciálně klesá v čase
 
-![damped_oscillation.gif](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c/damped_oscillation.gif)
+![damped_oscillation.gif](11Dynamika_pohybu/damped_oscillation.gif)
 
 Pohyb tlumeného oscilátoru zde není přesně periodický → amplituda se mění
 
@@ -459,7 +459,7 @@ $$
 x = (C_1 + C_2t)e^{-\delta t} \qquad v_x = -\delta (C_1+ C_2 t )t^{-\delta t}
 $$
 
-![damped_oscillationkri.gif](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c/damped_oscillationkri.gif)
+![damped_oscillationkri.gif](11Dynamika_pohybu/damped_oscillationkri.gif)
 
 ### Případ aperiodického útlumu
 
@@ -514,11 +514,11 @@ Když se pozoruje funkce $A(\Omega)$ tak se z toho zjistí pár věcí:
 - Pro velký útlum $\delta > \frac{\omega_0}{\sqrt{2}}$ dosahuje funkce maxima v 0 - rezonance nenastává
 - Při útlumu $\delta < \frac{\omega_0}{\sqrt{2}}$ nabývá křivka maxima na rezonanční frekvenci $\Omega_r = \sqrt{\omega_0^2-2\delta^2}$ ⇒ $A_{max} = \frac{B}{2\delta\sqrt{\omega_0^2-\delta^2}}$ **AMPLITUDOVÁ REZONANCE**→s klesajícím útlumem tato hodnota roste do nekonečna a rezonanční frekvence se blíží vlastní frekvenci $\omega_0$
 
-![Ty čísla na obou grafech neodpovídají stejným případům](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c/Snmek_obrazovky_2025-08-17_164529.png)
+![Ty čísla na obou grafech neodpovídají stejným případům](11Dynamika_pohybu/Snmek_obrazovky_2025-08-17_164529.png)
 
 Ty čísla na obou grafech neodpovídají stejným případům
 
-![Snímek obrazovky 2025-08-17 164538.png](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c/Snmek_obrazovky_2025-08-17_164538.png)
+![Snímek obrazovky 2025-08-17 164538.png](11Dynamika_pohybu/Snmek_obrazovky_2025-08-17_164538.png)
 
 Vynucené kmity oscilátoru jsou netlumené → stav energetické rovnováhy → ztráty mechanické energie disipací jsou nahrazovány energií vnějšího zdroje
 
@@ -574,6 +574,6 @@ $$
 T = 2\pi \sqrt{\frac{l}{g}}
 $$
 
-![Snímek obrazovky 2025-08-17 181500.png](Dynamika%20pohybu%20hmotn%C3%A9ho%20bodu%2024eae1c2f208808bba98c24c04b4eb3c/Snmek_obrazovky_2025-08-17_181500.png)
+![Snímek obrazovky 2025-08-17 181500.png](11Dynamika_pohybu/Snmek_obrazovky_2025-08-17_181500.png)
 
 Pro malé výkyvy je matematické kyvadlo izochronní (jeho perioda nezávisí na amplitudě)

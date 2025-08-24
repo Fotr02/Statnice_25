@@ -8,7 +8,7 @@ Existuje i vnitřní fotoefekt - nárůst vodivosti polovodičů po dopadu svět
 
 Konfigurace takového experimentu může vypadat následovně
 
-![Snímek obrazovky 2025-08-22 131531.png](Atomov%C3%A1%20fyzika%2024eae1c2f20880b58174ce7c250d638c/Snmek_obrazovky_2025-08-22_131531.png)
+![Snímek obrazovky 2025-08-22 131531.png](18Atomova_fyzika/Snmek_obrazovky_2025-08-22_131531.png)
 
 → dopadá monochromatické světlo → postupně se mění → světlo produkuje elektrický proud → zdroj stejnosměrného napětí vytváří elektrické pole, které vrací emitované elektrony zpět → pro jisté velikosti napětí $U_s$ přestane proud procházet →experimentálně dokázána lineární závislost na frekvenci 
 
@@ -54,7 +54,7 @@ $$
 
 Dopadá ELMAG vlna → rozkmitá vázaný elektron (buzené kmitání) → jakmile kinetická energie elektronu  překročí vazbovou energii → elektron letí →charakter tohoto jevu by měl být dán vlastnostmi rezonanční křivky → při nízké energii dopadající vlny se nic neuvolní (nedostatečné rozkmitání) → čím blíže rezonanční frekvenci → tím menší stačí amplituda dopadající vlny →BLBĚ
 
-![Snímek obrazovky 2025-08-22 131834.png](Atomov%C3%A1%20fyzika%2024eae1c2f20880b58174ce7c250d638c/Snmek_obrazovky_2025-08-22_131834.png)
+![Snímek obrazovky 2025-08-22 131834.png](18Atomova_fyzika/Snmek_obrazovky_2025-08-22_131834.png)
 
 </aside>
 
@@ -123,7 +123,7 @@ Model černého tělesa - dutina s černými matnými stěnami s malým otvorem 
 
 Praktickou realizací je například sklářská pec
 
-![Snímek obrazovky 2025-08-22 151329.png](Atomov%C3%A1%20fyzika%2024eae1c2f20880b58174ce7c250d638c/Snmek_obrazovky_2025-08-22_151329.png)
+![Snímek obrazovky 2025-08-22 151329.png](18Atomova_fyzika/Snmek_obrazovky_2025-08-22_151329.png)
 
 <aside>
 👱‍♂️
@@ -170,7 +170,7 @@ $$
 i(\nu,T) = \dfrac{2\pi h \nu^3}{c^2} \dfrac{1}{e^{\frac{h\nu}{kT}}-1}
 $$
 
-![Snímek obrazovky 2025-08-22 160021.png](Atomov%C3%A1%20fyzika%2024eae1c2f20880b58174ce7c250d638c/Snmek_obrazovky_2025-08-22_160021.png)
+![Snímek obrazovky 2025-08-22 160021.png](18Atomova_fyzika/Snmek_obrazovky_2025-08-22_160021.png)
 
 Jde ho taky převést do tvaru s vlnovýma délkama
 
@@ -201,7 +201,7 @@ $$
 
 Porovnání těchto dvou zákonů jak ve frekvenční tak vlnové oblasti
 
-![Snímek obrazovky 2025-08-22 161325.png](Atomov%C3%A1%20fyzika%2024eae1c2f20880b58174ce7c250d638c/Snmek_obrazovky_2025-08-22_161325.png)
+![Snímek obrazovky 2025-08-22 161325.png](18Atomova_fyzika/Snmek_obrazovky_2025-08-22_161325.png)
 
 ## Wienův posunovací zákon
 
@@ -213,7 +213,7 @@ $$
 
 (aby tenhle vzorec platit, tak vlnové délky uvažujeme v $\mu$ m)
 
-![Průběh maxim spektrálních hustot (pro různé teploty)](Atomov%C3%A1%20fyzika%2024eae1c2f20880b58174ce7c250d638c/Snmek_obrazovky_2025-08-22_161312.png)
+![Průběh maxim spektrálních hustot (pro různé teploty)](18Atomova_fyzika/Snmek_obrazovky_2025-08-22_161312.png)
 
 Průběh maxim spektrálních hustot (pro různé teploty)
 

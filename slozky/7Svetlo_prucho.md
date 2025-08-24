@@ -11,7 +11,7 @@ Rozhraní dvou homogenních prostředí → nespojitost optické homogenity
 
 Skoková změna $\varepsilon,\mu,\sigma$.
 
-Odvození jen pro stacionární rozhraní → řeší se [MR v integrálním tvaru](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd.md) (ale pro materiálové prostředí) → objemové integrály jdou k nule → u povrchových integrálů nás zajímá jen integrace přes horní a dolní podstavu
+Odvození jen pro stacionární rozhraní → řeší se [MR v integrálním tvaru](7Svetlo_prucho.md) (ale pro materiálové prostředí) → objemové integrály jdou k nule → u povrchových integrálů nás zajímá jen integrace přes horní a dolní podstavu
 
 ### Magnetická indukce
 
@@ -27,7 +27,7 @@ $$
 \nu\cdot(\mathcal B_2 - \mathcal B_1) =0 
 $$
 
-![Snímek obrazovky 2025-08-12 155827.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_155827.png)
+![Snímek obrazovky 2025-08-12 155827.png](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_155827.png)
 
 Skalární součin kolmých složek je roven nule
 
@@ -47,7 +47,7 @@ $$
 \nu\times(\mathcal E_2-\mathcal E_1)=0
 $$
 
-![Snímek obrazovky 2025-08-12 160935.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_160935.png)
+![Snímek obrazovky 2025-08-12 160935.png](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_160935.png)
 
 Vektorový součin rovnoběžných složek je roven nule.
 
@@ -85,9 +85,9 @@ $$
 
 Plynou z toho dvě podmínky(prvně se využije komplexního zápisu $\mathcal E = \text{Re}(\mathbf E e^{\ldots})$) (musí to platit v každém čase a místě rozhraní) → **podmínka spojitosti okamžitého průběhu fází** a **podmínku spojitosti amplitud**    
 
-![Snímek obrazovky 2025-08-12 162318.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/c6168071-4d58-4199-a9fd-e04113894a7d.png)
+![Snímek obrazovky 2025-08-12 162318.png](7Svetlo_prucho/c6168071-4d58-4199-a9fd-e04113894a7d.png)
 
-Z **podmínku spojitosti amplitud plynou [Fresnelovy vzorce](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1.md)**
+Z **podmínku spojitosti amplitud plynou [Fresnelovy vzorce](7Svetlo_prucho.md)**
 
 $$
 \begin{split}e^{i(\omega_1 t - k_1 \cdot r)} &= e^{i(\omega_2 t - k_2 \cdot r)} = e^{i(\omega_1^\prime t - k_1^\prime \cdot r)}\\\mathbf E_1^{T} + \mathbf E_1^{T\prime} &= \mathbf E_2^T\end{split}
@@ -111,7 +111,7 @@ $$
 
 Tečné složky vlnových vektorů jsou na rozhraní spojité.
 
-![Snímek obrazovky 2025-08-12 170400.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/9e9c4428-13be-4ab7-93e1-7271a334d23c.png)
+![Snímek obrazovky 2025-08-12 170400.png](7Svetlo_prucho/9e9c4428-13be-4ab7-93e1-7271a334d23c.png)
 
 ### Skalární forma
 
@@ -128,7 +128,7 @@ $$
 
 Dopadající vektor pole se rozkládá do dvou vhodných komponent → **p (TM polarizace)** a **s (TE polarizace)**
 
-![U **s** je vektor E kolmý k rovině dopadu a u **p** je zase paralelní](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_171048.png)
+![U **s** je vektor E kolmý k rovině dopadu a u **p** je zase paralelní](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_171048.png)
 
 U **s** je vektor E kolmý k rovině dopadu a u **p** je zase paralelní
 
@@ -140,7 +140,7 @@ $$
 
 ### Amplitudové koeficienty
 
-![Snímek obrazovky 2025-08-12 172820.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_172820.png)
+![Snímek obrazovky 2025-08-12 172820.png](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_172820.png)
 
 Amplitudové koeficienty transmise/reflexe se liší pro TE a TM polarizace
 
@@ -168,7 +168,7 @@ $$
 R+ T= 1
 $$
 
-![Snímek obrazovky 2025-08-12 172525.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_172525.png)
+![Snímek obrazovky 2025-08-12 172525.png](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_172525.png)
 
 </aside>
 
@@ -187,7 +187,7 @@ Při odrazu od hustšího prostředí se mění fáze odraženého světla o $\p
 
 Při odrazu od řidšího prostředí se fáze odraženého světla nemění
 
-![Snímek obrazovky 2025-08-12 174010.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_174010.png)
+![Snímek obrazovky 2025-08-12 174010.png](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_174010.png)
 
 </aside>
 
@@ -214,7 +214,7 @@ $$
 
 Vlna v řidším prostředí se šíří pouze podél rozhraní - v kolmém je exp. tlumena a soufázová.
 
-![Snímek obrazovky 2025-08-12 181131.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_181131.png)
+![Snímek obrazovky 2025-08-12 181131.png](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_181131.png)
 
 </aside>
 
@@ -223,11 +223,11 @@ Vlna v řidším prostředí se šíří pouze podél rozhraní - v kolmém je e
 
 ## Brewsterův úhel
 
-Z [čtvrtého vztahu](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1.md) plyne, že může být nulová reflexe pro **p** polarizaci
+Z [čtvrtého vztahu](7Svetlo_prucho.md) plyne, že může být nulová reflexe pro **p** polarizaci
 
-![Snímek obrazovky 2025-08-12 174948.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_174948.png)
+![Snímek obrazovky 2025-08-12 174948.png](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_174948.png)
 
-Podmínkou splnění je $\theta_1+\theta_2 = \frac{\pi}{2}$ → dosazením do [zákona lomu](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1.md) dostaneme 
+Podmínkou splnění je $\theta_1+\theta_2 = \frac{\pi}{2}$ → dosazením do [zákona lomu](7Svetlo_prucho.md) dostaneme 
 
 $$
 \tan \theta_{1B} = \frac{n_2}{n_1}
@@ -239,7 +239,7 @@ Odražená vlna má tedy pouze **s** polarizaci a dochází ke skokové změně 
 
 Složitá interpretace: BÚ je stav, kdy dipóly materiálu, které jsou zodpovězené za vznik odražené vlny, kmitají ve směru odražené vlny, a tudíž nemohou vyzařovat 
 
-![Snímek obrazovky 2025-08-12 175457.png](Sv%C4%9Btlo%20p%C5%99i%20pr%C5%AFchodu%20dvou%20homogenn%C3%ADch%20prost%C5%99ed%C3%AD%20249ae1c2f20880cf8102dc07175a8ce1/Snmek_obrazovky_2025-08-12_175457.png)
+![Snímek obrazovky 2025-08-12 175457.png](7Svetlo_prucho/Snmek_obrazovky_2025-08-12_175457.png)
 
 </aside>
 

@@ -51,7 +51,7 @@ $$
 
 Dále se bude hledat podmínka, za které se dají ty dvě věci oddělit (jelikož v geometrické optice tyhle dvě věci nezávisejí na sobě).
 
-Využívá se první odvozené [rovnice](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e.md) → fáze a amplituda nejsou pevně svázány.
+Využívá se první odvozené [rovnice](9Zaklady_geom_optiky.md) → fáze a amplituda nejsou pevně svázány.
 
 Za jakých podmínek se to dá rozdělit?
 
@@ -72,7 +72,7 @@ $$
 \nabla S =n\kappa
 $$
 
-![Snímek obrazovky 2025-08-14 103028.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_103028.png)
+![Snímek obrazovky 2025-08-14 103028.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_103028.png)
 
 **Rovnice paprsku** bude mít tvar
 
@@ -119,7 +119,7 @@ Uvažují se osově symetrické systémy se společnou optickou osou (samosdruž
 
 Znaménková konvence je vidět na dalším obrázku
 
-![Snímek obrazovky 2025-08-14 105838.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_105838.png)
+![Snímek obrazovky 2025-08-14 105838.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_105838.png)
 
 <aside>
 🤔
@@ -144,7 +144,7 @@ Znaménková konvence je vidět na dalším obrázku
 - **Ohnisková (fokální) vzdálenost** - vzdálenost mezi příslušnými hlavními body a příslušným fokuse je ohnisková vzdálenost - **předmětová** $f$, **obrazová** $f^\prime$
 - **Fokální systémy** - systémy, kde existují fokální roviny (**afokální** zobrazí nevlastní roviny na vlastní)
 
-![Snímek obrazovky 2025-08-14 113421.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_113421.png)
+![Snímek obrazovky 2025-08-14 113421.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_113421.png)
 
 </aside>
 
@@ -162,7 +162,7 @@ $$
 zz^\prime = ff^\prime
 $$
 
-![Snímek obrazovky 2025-08-14 113859.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_113859.png)
+![Snímek obrazovky 2025-08-14 113859.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_113859.png)
 
 Když se zvolí jiná volba soustavy pro odečítání vzdáleností $z = a-f ; z^\prime = a^\prime - f^\prime$, pak se dá získat **Gaussova zobrazovací rovnice**
 
@@ -174,13 +174,13 @@ Ta druhá se spíš označuje jako ta **Gaussova zobrazovací rovnice**
 
 Obě zobrazovací rovnice udávají pouze relace podélných souřadnic při zobrazení, nikoliv vztah velikostní relace předmětu → je nutné je doplnit relacemi - vlastnostmi pro jednotlivá zvětšení - pro dioptrický systém (systém se zvětšením) platí
 
-![Snímek obrazovky 2025-08-14 114222.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_114222.png)
+![Snímek obrazovky 2025-08-14 114222.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_114222.png)
 
 ## Paraxiální optická soustava
 
 Ideální zobrazení nemusí být možné reálně fyzikálně realizovat.
 
-Ideální transformace (popsaná [ZDE](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e.md)) nejsme schopni realizovat pro obecnou polohu a velikost předmětu.
+Ideální transformace (popsaná [ZDE](9Zaklady_geom_optiky.md)) nejsme schopni realizovat pro obecnou polohu a velikost předmětu.
 
 Odchylku paprsků od ideálního zobrazení bodu - nazýváme **paprskové aberace** (**aberace - optické vady**; odchylky od ideálních stavů)
 
@@ -205,7 +205,7 @@ $$
 
 Jak to vypadá je na obrázku
 
-![Snímek obrazovky 2025-08-14 133132.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_133132.png)
+![Snímek obrazovky 2025-08-14 133132.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_133132.png)
 
 Popisuje se zobrazení osového bodu
 
@@ -287,9 +287,9 @@ $$
 f^\prime = \frac{n_0}{n-n_0} \frac{r_1r_2}{r_2-r_1}
 $$
 
-protože má čočka z obou stran stejný index lomu → platí [vztah](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e.md) → v absolutní hodnotě jsou obě ohniskové vzdálenosti stejné
+protože má čočka z obou stran stejný index lomu → platí [vztah](9Zaklady_geom_optiky.md) → v absolutní hodnotě jsou obě ohniskové vzdálenosti stejné
 
-![Snímek obrazovky 2025-08-14 140035.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_140035.png)
+![Snímek obrazovky 2025-08-14 140035.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_140035.png)
 
 </aside>
 
@@ -310,13 +310,13 @@ $f_1^\prime, f_2^\prime>0$, ohniskové roviny jsou v nekonečnu, bod z nekonečn
 
 Příčné zvětšení je dáno $\beta = -\frac{f_2^\prime}{f_1^\prime}$ a ostatní zvětšení jsou dány $\gamma = \frac{1}{\beta}$ a $\alpha= \beta^2$
 
-![Snímek obrazovky 2025-08-14 141128.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_141128.png)
+![Snímek obrazovky 2025-08-14 141128.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_141128.png)
 
 ### Spojka a rozptylka
 
 $f_1^\prime>0, f_2^\prime<0$. Zvětšení je dáno stejně jako u předchozího systému. **Obraz bude vždy vzpřímený a virtuální**
 
-![Snímek obrazovky 2025-08-14 141405.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_141405.png)
+![Snímek obrazovky 2025-08-14 141405.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_141405.png)
 
 ### Poznámky
 
@@ -328,11 +328,11 @@ Fokální vzdálenost oka - vzdálenost čočky a sítnice
 
 **Případ tlusté spojky**
 
-![Snímek obrazovky 2025-08-14 141650.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_141650.png)
+![Snímek obrazovky 2025-08-14 141650.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_141650.png)
 
 **Případ tlusté rozptylky**
 
-![Snímek obrazovky 2025-08-14 141745.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_141745.png)
+![Snímek obrazovky 2025-08-14 141745.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_141745.png)
 
 </aside>
 
@@ -363,13 +363,13 @@ Projevuje se u osových bodů při zobrazení širokými svazky, kde jednotlivé
 
 Paprsky homocentrického svazku se nezobrazí jako homocentrické 
 
-![Snímek obrazovky 2025-08-14 151020.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_151020.png)
+![Snímek obrazovky 2025-08-14 151020.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_151020.png)
 
 ### Koma
 
 Vzniká při zobrazení mimoosového bodu širokým svazkem - mimoosová analogie otvorové vady
 
-![Snímek obrazovky 2025-08-14 151336.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_151336.png)
+![Snímek obrazovky 2025-08-14 151336.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_151336.png)
 
 ### Astigmatismus
 
@@ -377,7 +377,7 @@ Vada úzkých silně mimoosových svazků (velký dopadový úhel)
 
 Projevuje se různě v meridionální a sagitální rovině
 
-![Snímek obrazovky 2025-08-14 151537.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_151537.png)
+![Snímek obrazovky 2025-08-14 151537.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_151537.png)
 
 ### Chromatická aberace
 
@@ -385,7 +385,7 @@ Nenastává u reflexní systémů
 
 Díky materiálové disperzi dochází ke změně mohutnosti optických prvků
 
-Optická mohutnost čočky je dána [vztahem](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e.md) → její změna závisí na změně indexu lomu
+Optická mohutnost čočky je dána [vztahem](9Zaklady_geom_optiky.md) → její změna závisí na změně indexu lomu
 
 $$
 \Delta \varphi = \frac{\varphi}{\nu} \qquad \text{kde} \, \nu= \frac{n-1}{\Delta n}
@@ -416,7 +416,7 @@ Konvenční optická vzdálenost je 25 cm
 
 Tyčinky - černobíle noční vidění, mimo žlutou skvrnu
 
-![Snímek obrazovky 2025-08-14 152201.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_152201.png)
+![Snímek obrazovky 2025-08-14 152201.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_152201.png)
 
 </aside>
 
@@ -466,7 +466,7 @@ Parametrem je rozptylová charakteristika
 
 Využívá se disperzní diagram (x-Abbého číslo - ale opačně, y-index lomu)
 
-![Snímek obrazovky 2025-08-14 174741.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_174741.png)
+![Snímek obrazovky 2025-08-14 174741.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_174741.png)
 
 Nejčastějším materiálem je optické sklo → dělí se podle Abbého čísla
 
@@ -489,7 +489,7 @@ $$
 \Gamma = \frac{\tan \alpha^\prime}{\tan \alpha}
 $$
 
-![Snímek obrazovky 2025-08-14 175405.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_175405.png)
+![Snímek obrazovky 2025-08-14 175405.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_175405.png)
 
 ### Rozlišovací schopnost optických soustav
 
@@ -505,7 +505,7 @@ $$
 \Delta \theta = \theta_{min} = 1.22\frac{\lambda}{D}
 $$
 
-![Snímek obrazovky 2025-08-14 180002.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_180002.png)
+![Snímek obrazovky 2025-08-14 180002.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_180002.png)
 
 ### Relativní otvor a numerická apertura
 
@@ -523,7 +523,7 @@ $$
 NA = n\sin\sigma
 $$
 
-![Snímek obrazovky 2025-08-14 180304.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_180304.png)
+![Snímek obrazovky 2025-08-14 180304.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_180304.png)
 
 ### Přenosová funkce
 
@@ -533,7 +533,7 @@ Popisuje vlnově přenos signálu v prostorovém spektru intenzit, zahrnuje veš
 
 Nulovost funkce pro danou frekvenci se projeví ztrátou detailů obrazu přenášených na této frekvenci
 
-![Snímek obrazovky 2025-08-14 180312.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_180312.png)
+![Snímek obrazovky 2025-08-14 180312.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_180312.png)
 
 </aside>
 
@@ -546,7 +546,7 @@ Jednočlenný optický systém určený pro pozorování blízkých předmětů
 
 Předmět se klade do předmětové fokální roviny → oko je zaostřeno na nekonečno 
 
-![Snímek obrazovky 2025-08-14 181949.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_181949.png)
+![Snímek obrazovky 2025-08-14 181949.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_181949.png)
 
 Celkové zvětšení $\Gamma$ vychází se srovnáním s pozorováním na konvenční vzdálenost 250 mm (3-15x zvětšení)
 
@@ -592,7 +592,7 @@ S ohledem na aberace není poloha předmětu obecná - je přesně vymezena a ob
 
 Smysluplné zvětšení je do optické oblasti je cca 1500x
 
-![Snímek obrazovky 2025-08-14 182521.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_182521.png)
+![Snímek obrazovky 2025-08-14 182521.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_182521.png)
 
 </aside>
 
@@ -616,7 +616,7 @@ Dělí se na
 
 Světelnost i rozlišovací schopnost dalekohledu je daná průměrem objektivu
 
-![Snímek obrazovky 2025-08-14 183347.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_183347.png)
+![Snímek obrazovky 2025-08-14 183347.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_183347.png)
 
 </aside>
 
@@ -629,7 +629,7 @@ Objekt je většinou uvažován ve velké vzdálenosti…
 
 Objekt je objektivem zobrazen na záznamovém médiu..
 
-![Snímek obrazovky 2025-08-14 183552.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_183552.png)
+![Snímek obrazovky 2025-08-14 183552.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_183552.png)
 
 </aside>
 
@@ -638,8 +638,8 @@ Objekt je objektivem zobrazen na záznamovém médiu..
 
 ## Projektor
 
-![Snímek obrazovky 2025-08-14 183817.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_183817.png)
+![Snímek obrazovky 2025-08-14 183817.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_183817.png)
 
-![Snímek obrazovky 2025-08-14 183609.png](Z%C3%A1klady%20geometrick%C3%A9%20optiky%20249ae1c2f20880aea499d3acce8ef77e/Snmek_obrazovky_2025-08-14_183609.png)
+![Snímek obrazovky 2025-08-14 183609.png](9Zaklady_geom_optiky/Snmek_obrazovky_2025-08-14_183609.png)
 
 </aside>

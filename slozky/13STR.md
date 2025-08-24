@@ -38,7 +38,7 @@ V počátku obou soustav jsou hodiny, které měří časy ($t$ a $t^\prime$)
 
 V S se světlo šíří po vlnoplochách: $x^2+y^2+z^2 = c^2t^2$ → podobně v S$^\prime$
 
-![Snímek obrazovky 2025-08-19 140206.png](Speci%C3%A1ln%C3%AD%20teorie%20relativity%2024eae1c2f20880208e7fff546d49e791/Snmek_obrazovky_2025-08-19_140206.png)
+![Snímek obrazovky 2025-08-19 140206.png](13STR/Snmek_obrazovky_2025-08-19_140206.png)
 
 <aside>
 ❓
@@ -99,7 +99,7 @@ $$
 
 </aside>
 
-Tvar Lorentzových transformací (podrobně v [Odvození](Speci%C3%A1ln%C3%AD%20teorie%20relativity%2024eae1c2f20880208e7fff546d49e791.md)) je
+Tvar Lorentzových transformací (podrobně v [Odvození](13STR.md)) je
 
 $$
 \begin{pmatrix}
@@ -184,7 +184,7 @@ $l_0$ je vlastní délka (v klidové soustavě)
 
 ### Skládání rychlostí
 
-Platí [toto](Speci%C3%A1ln%C3%AD%20teorie%20relativity%2024eae1c2f20880208e7fff546d49e791.md) a stejný pro $\Delta x$ a $\Delta t$ (jen mínuska jdou pryč) —> udělý se poměr $\Delta x$ a $\Delta t$ a označí se $\frac{\Delta x}{\Delta t} = u_x$ a podobně $u_x^\prime$ a získá se
+Platí [toto](13STR.md) a stejný pro $\Delta x$ a $\Delta t$ (jen mínuska jdou pryč) —> udělý se poměr $\Delta x$ a $\Delta t$ a označí se $\frac{\Delta x}{\Delta t} = u_x$ a podobně $u_x^\prime$ a získá se
 
 $$
 u_x = \frac{u_x^\prime+v}{1+\frac{u^\prime v}{c^2}}
@@ -238,7 +238,7 @@ Interval může být
     - tyto dvě události nemohou být v příčinném spojení a nemohou se týkat stejného tělesa
     - spojuje události, které nemohou být kauzálně spojeny, protože existuje IVS, kde jsou současné
 
-![Vpravo je prostoročasový diagram](Speci%C3%A1ln%C3%AD%20teorie%20relativity%2024eae1c2f20880208e7fff546d49e791/Snmek_obrazovky_2025-08-19_160315.png)
+![Vpravo je prostoročasový diagram](13STR/Snmek_obrazovky_2025-08-19_160315.png)
 
 Vpravo je prostoročasový diagram
 

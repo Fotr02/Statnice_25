@@ -168,7 +168,7 @@ S vyšší teplotou roste počet částic s vysokými rychlostmi  → graf pravd
 
 Ze znalosti tohoto rozdělení jde určit nejpravděpodobnější hodnotu rychlosti, střední hodnotu velikosti rychlosti a  střední kvadratickou rychlost → řádově jsou stejné
 
-![Snímek obrazovky 2025-08-24 103750.png](Statistick%C3%A1%20fyzika%2024eae1c2f208809fb0d0e5a41f3567f1/Snmek_obrazovky_2025-08-24_103750.png)
+![Snímek obrazovky 2025-08-24 103750.png](20Stat_Fyzika/Snmek_obrazovky_2025-08-24_103750.png)
 
 <aside>
 ℹ️
@@ -189,7 +189,7 @@ Každému stupni volnosti zastoupeném v Hamiltoniánu prostřednictvím homogen
 
 # Partiční suma
 
-Partiční sumu pro diskrétní a spojitý soubor jsme si představili [ZDE](Statistick%C3%A1%20fyzika%2024eae1c2f208809fb0d0e5a41f3567f1.md)
+Partiční sumu pro diskrétní a spojitý soubor jsme si představili [ZDE](20Stat_Fyzika.md)
 
 Je to tedy funkce Lagrangeových multiplikátorů a dalších funkci
 

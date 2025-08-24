@@ -70,7 +70,7 @@ $$
 
 Základní přehled vypadá
 
-![Snímek obrazovky 2025-08-06 084213.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_084213.png)
+![Snímek obrazovky 2025-08-06 084213.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_084213.png)
 
 1. Konverze elektrické energie
     1. užitečné čerpací záření - část záření čerpacího zdroje, která spadá do absorpčního pásu laserového AP
@@ -89,7 +89,7 @@ Základní přehled vypadá
 
 Celková účinnost je daná produktem jednotlivých účinností
 
-![Snímek obrazovky 2025-08-06 085717.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_085717.png)
+![Snímek obrazovky 2025-08-06 085717.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_085717.png)
 
 </aside>
 
@@ -116,13 +116,13 @@ $$
 
 kde $\sigma_S$ je diferenciální účinnost (úměrná součinu všech účinnostních faktorů laseru)
 
-![Snímek obrazovky 2025-08-06 091842.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_091842.png)
+![Snímek obrazovky 2025-08-06 091842.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_091842.png)
 
 Laserový materiál s větším součinem stimulovaného příčného průřezu a fluorescenční doby života bude mít nižší laserový práh.
 
 **Pro každý systém existuje optimální reflektivita výstupního zrcadla, protože obecný tvar intenzity a výstupního výkonu závisí na reflektivitě výstupního zrcadla**
 
-![Snímek obrazovky 2025-08-06 092248.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_092248.png)
+![Snímek obrazovky 2025-08-06 092248.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_092248.png)
 
 Z těch složitých vztahů se pak dají vyjádřit vzorce pro prahovou a optimální reflektivitu
 
@@ -136,7 +136,7 @@ Závisí to tedy parametrech AP a ztrátách a zisku rezonátoru
 
 A to není vše… můžeme spočítat i maximální hustotu výkonu a optimální výstupní hustotu výkonu
 
-![Jde vidět, že lasery pracující vysoko nad prahem nejsou tak citlivé na změnu reflektance/optimální vazby](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_092932.png)
+![Jde vidět, že lasery pracující vysoko nad prahem nejsou tak citlivé na změnu reflektance/optimální vazby](4Rezimy_generace/Snmek_obrazovky_2025-08-06_092932.png)
 
 Jde vidět, že lasery pracující vysoko nad prahem nejsou tak citlivé na změnu reflektance/optimální vazby
 
@@ -147,7 +147,7 @@ Jde vidět, že lasery pracující vysoko nad prahem nejsou tak citlivé na změ
 
 Určení reálných ztrát 4-hladinového systému. 
 
-Když máme naměřený křivky výstupních výkonů v závislosti na čerpání → můžeme [pomocí](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f.md) zjistit **prahové výkony**
+Když máme naměřený křivky výstupních výkonů v závislosti na čerpání → můžeme [pomocí](4Rezimy_generace.md) zjistit **prahové výkony**
 
 Pak pomocí vzorce
 
@@ -157,7 +157,7 @@ $$
 
 zjistíme reálné ztráty $\delta$
 
-![Jiné vyjádření toho stejného](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/81d86b06-afd5-4f0b-84db-18e9c118e8ed.png)
+![Jiné vyjádření toho stejného](4Rezimy_generace/81d86b06-afd5-4f0b-84db-18e9c118e8ed.png)
 
 Jiné vyjádření toho stejného
 
@@ -171,7 +171,7 @@ V 4H systému jsou ztráty - Fresnelovské, residuální absorpční, rozptylov�
 
 V kvazi-3H jsou navíc saturovatelné ztráty - termální populace dolní laserové hladiny (částečná reabsorpce laserového záření)
 
-![Rozdíl mezi 4H a 3H (kvazi 3H by byla křivka mezi nima)  ](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_095953.png)
+![Rozdíl mezi 4H a 3H (kvazi 3H by byla křivka mezi nima)  ](4Rezimy_generace/Snmek_obrazovky_2025-08-06_095953.png)
 
 Rozdíl mezi 4H a 3H (kvazi 3H by byla křivka mezi nima)  
 
@@ -183,13 +183,13 @@ Rozdíl mezi 4H a 3H (kvazi 3H by byla křivka mezi nima)
 
 Stimulovaná emise “lítá” mezi zrcadly → je zesílená → podle čerpání → kontinuální/pulsní záření vystupuje
 
-![Intenzita na čase](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_123018.png)
+![Intenzita na čase](4Rezimy_generace/Snmek_obrazovky_2025-08-06_123018.png)
 
 Intenzita na čase
 
 Dochází k přechodovým jevům (intenzita a inverze populace hladin) → spiking
 
-![ty divný znaky znamenají, že to je k něčemu normované (často to jsou stacionární hodnoty)](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_123347.png)
+![ty divný znaky znamenají, že to je k něčemu normované (často to jsou stacionární hodnoty)](4Rezimy_generace/Snmek_obrazovky_2025-08-06_123347.png)
 
 ty divný znaky znamenají, že to je k něčemu normované (často to jsou stacionární hodnoty)
 
@@ -197,7 +197,7 @@ Oscilace přecházejí z vlnění na konst. výstup
 
 Činitel jakosti je stejný.
 
-![Základní charakteristiky](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_123818.png)
+![Základní charakteristiky](4Rezimy_generace/Snmek_obrazovky_2025-08-06_123818.png)
 
 Základní charakteristiky
 
@@ -215,9 +215,9 @@ Zásahem do dějů probíhajících při vzniku stimulované emise lze:
 
 Jde o jednorázové uvolnění energie nahromaděné v horní laserové hladině AP.
 
-Ovlivňujeme [činitele jakosti](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f.md) Q, což je energie uložená v rezonátoru ku energii ztracené z rezonátoru za $T/2\pi,$ kde $T$ je perioda kmitu optického záření
+Ovlivňujeme [činitele jakosti](4Rezimy_generace.md) Q, což je energie uložená v rezonátoru ku energii ztracené z rezonátoru za $T/2\pi,$ kde $T$ je perioda kmitu optického záření
 
-![1964-Robert W. Helwarth](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_125718.png)
+![1964-Robert W. Helwarth](4Rezimy_generace/Snmek_obrazovky_2025-08-06_125718.png)
 
 1964-Robert W. Helwarth
 
@@ -236,9 +236,9 @@ Důležité průběhy jsou vidět na dvou následujících obrázcích.
 
 Je možné tam přidat graf vykreslující činitele jakosti rezonátoru (jsou to jen obrácené ztráty - nic složitýho)
 
-![Snímek obrazovky 2025-08-06 195746.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_195746.png)
+![Snímek obrazovky 2025-08-06 195746.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_195746.png)
 
-![Snímek obrazovky 2025-08-06 195804.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_195804.png)
+![Snímek obrazovky 2025-08-06 195804.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_195804.png)
 
 <aside>
 <img src="https://www.notion.so/icons/bookmark_pink.svg" alt="https://www.notion.so/icons/bookmark_pink.svg" width="40px" />
@@ -334,7 +334,7 @@ Dvojlom je v prostředí charakterizován dvěma ortogonálními směry (rozdíl
     
     Napětí je po celou dobu → jen až chceme ten impulz
     
-    ![Snímek obrazovky 2025-08-06 212718.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_212718.png)
+    ![Snímek obrazovky 2025-08-06 212718.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_212718.png)
     
 </aside>
 
@@ -349,7 +349,7 @@ Dvojlom je v prostředí charakterizován dvěma ortogonálními směry (rozdíl
     
     Po přivedení napětí se po prvním průchodu záření otočí o 90° a po opětovném průchodu se otočí o dalších 90° → efektivně se s ním nic “nestalo”
     
-    ![Snímek obrazovky 2025-08-06 212329.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_212329.png)
+    ![Snímek obrazovky 2025-08-06 212329.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_212329.png)
     
     Ten jedná neznámá je element tenzoru 3. řádu - **elektrooptický koeficient** (má normal 18 koeficientů - ale dost jich je nulových díky symetriím) a druhá je **řádný index lomu**
     
@@ -367,7 +367,7 @@ $$
 V_{1/2} = \dfrac{\lambda d}{n_0^3 r_{63}l},
 $$
 
- neznámé jsou popsané [ZDE](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f.md).
+ neznámé jsou popsané [ZDE](4Rezimy_generace.md).
 
 <aside>
 🤔
@@ -416,7 +416,7 @@ Vhodnou volbou parametrů může být rozptylované světlo odkloněno mimo duti
 
 Piezoelektrický transduktor - zdroj ultrazvukových vln
 
-![Snímek obrazovky 2025-08-06 215154.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-06_215154.png)
+![Snímek obrazovky 2025-08-06 215154.png](4Rezimy_generace/Snmek_obrazovky_2025-08-06_215154.png)
 
 Podle optických a akustických vlnových délek (+ vzdálenosti na které spolu interagují) se difrakce dělí: **Ramanův-Nathanův rozptyl** a **Braggův rozptyl**
 
@@ -476,7 +476,7 @@ Využívali se organická barviva (docela jedovatý nebo karcinogenní), pevnol�
 - toxicita
 - absorpční ztráty
 
-![Normálně takhle tam hodím Sat. Abs. a je to 😊](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/ndyag.png)
+![Normálně takhle tam hodím Sat. Abs. a je to 😊](4Rezimy_generace/ndyag.png)
 
 Normálně takhle tam hodím Sat. Abs. a je to 😊
 
@@ -507,7 +507,7 @@ Normálně takhle tam hodím Sat. Abs. a je to 😊
 
 Když se berou charakteristické vlastnosti generovaného impulzu → můžeme si zjednodušit rychlostní rovnice
 
-![To co je zakroužkované budeme zanedbávat](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-07_081207.png)
+![To co je zakroužkované budeme zanedbávat](4Rezimy_generace/Snmek_obrazovky_2025-08-07_081207.png)
 
 To co je zakroužkované budeme zanedbávat
 
@@ -564,7 +564,7 @@ Nejkratší možný impulz je $\tau_c$ (nezávisí na AP, závisí na parametrec
 
 Vysoký poměr zisku ke ztrátám vede k vysoké extrakční účinnosti
 
-![Snímek obrazovky 2025-08-07 102130.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-07_102130.png)
+![Snímek obrazovky 2025-08-07 102130.png](4Rezimy_generace/Snmek_obrazovky_2025-08-07_102130.png)
 
 </aside>
 
@@ -574,9 +574,9 @@ Vysoký poměr zisku ke ztrátám vede k vysoké extrakční účinnosti
 
 ## Synchronizace módů - Mode-locking
 
-Porovnání [TOTO](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f.md) a jak to vypadá v synchronizaci módů
+Porovnání [TOTO](4Rezimy_generace.md) a jak to vypadá v synchronizaci módů
 
-![Snímek obrazovky 2025-08-07 102309.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-07_102309.png)
+![Snímek obrazovky 2025-08-07 102309.png](4Rezimy_generace/Snmek_obrazovky_2025-08-07_102309.png)
 
 Normálně máme v laseru mnoho oscilujících podélných módů (jejich fáze a intenzity jsou náhodné).
 
@@ -588,7 +588,7 @@ Zkracování délky impulsu pokračuje tak dlouho, až je puls uvnitř rezonáto
 
 Pro dosažení modelockingu je nutné odstranit příčiny selekce podélných módů
 
-![Základní vztahy + frekvence je $1/T_F$](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-07_191923.png)
+![Základní vztahy + frekvence je $1/T_F$](4Rezimy_generace/Snmek_obrazovky_2025-08-07_191923.png)
 
 Základní vztahy + frekvence je $1/T_F$
 
@@ -610,7 +610,7 @@ $$
 
 kde $K$ závisí na předpokládaném tvaru impulzu (jaké ztráty předpokládáme, GVD, SPM …)
 
-![Snímek obrazovky 2025-08-07 195006.png](Laserov%C3%BD%20oscil%C3%A1tor%20a%20re%C5%BEimy%20generace%20245ae1c2f20880b982a1eade6e8b329f/Snmek_obrazovky_2025-08-07_195006.png)
+![Snímek obrazovky 2025-08-07 195006.png](4Rezimy_generace/Snmek_obrazovky_2025-08-07_195006.png)
 
 <aside>
 😮

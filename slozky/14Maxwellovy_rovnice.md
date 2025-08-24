@@ -202,9 +202,7 @@ F = e (\mathcal E + v\times \mathcal B) =\frac{d }{dt} \left( \dfrac{m_0 v}{\sqr
 
 $$
 
-Dobrý dokument
 
-[ELMA Maxwellky PŘEHLEDNĚ.pdf](Maxwellovy%20rovnice%2024eae1c2f208801baba1db27443a0b7b/ELMA_Maxwellky_PEHLEDN.pdf)
 
 # Vektorový a skalární potenciál
 
@@ -230,6 +228,6 @@ $$
 
 Trocha TEF2
 
-![Snímek obrazovky 2025-08-19 214812.png](Maxwellovy%20rovnice%2024eae1c2f208801baba1db27443a0b7b/Snmek_obrazovky_2025-08-19_214812.png)
+![Snímek obrazovky 2025-08-19 214812.png](14Maxwellovy_rovnice/Snmek_obrazovky_2025-08-19_214812.png)
 
-![Snímek obrazovky 2025-08-19 214826.png](Maxwellovy%20rovnice%2024eae1c2f208801baba1db27443a0b7b/Snmek_obrazovky_2025-08-19_214826.png)
+![Snímek obrazovky 2025-08-19 214826.png](14Maxwellovy_rovnice/Snmek_obrazovky_2025-08-19_214826.png)

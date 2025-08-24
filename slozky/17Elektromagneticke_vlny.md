@@ -163,7 +163,7 @@ $$
 
 Intenzita vlny závisí pouze na amplitudách
 
-![Snímek obrazovky 2025-08-22 083754.png](Elektromagnetick%C3%A9%20vlny%2024eae1c2f208809880c1ec06b3fea4d7/Snmek_obrazovky_2025-08-22_083754.png)
+![Snímek obrazovky 2025-08-22 083754.png](17Elektromagneticke_vlny/Snmek_obrazovky_2025-08-22_083754.png)
 
 Elektromagnetická vlna je obecně elipticky polarizovaná →blíže popsané to je [ZDE](Formy%20popisu%20sv%C4%9Btla,%20Vliv%20materi%C3%A1lu,%20rovinn%C3%A9%20vlny%20249ae1c2f20880f7b60fdd56f0c24ccd.md)
 
@@ -186,7 +186,7 @@ $$
 I_{out} = I_{in}\cos^2\theta
 $$
 
-![Snímek obrazovky 2025-08-22 085835.png](Elektromagnetick%C3%A9%20vlny%2024eae1c2f208809880c1ec06b3fea4d7/Snmek_obrazovky_2025-08-22_085835.png)
+![Snímek obrazovky 2025-08-22 085835.png](17Elektromagneticke_vlny/Snmek_obrazovky_2025-08-22_085835.png)
 
 .
 
@@ -201,7 +201,7 @@ Dokáže měnit fázový rozdíl mezi jednotlivými kolmými složkami elektrick
 
 Díky tomu, že vlna prochází materiálem s určitým indexem lomu → $k$ je dáno disperzním vztahem → fáze bude posunutá o $-kd$ než před destičkou
 
-![Snímek obrazovky 2025-08-22 090849.png](Elektromagnetick%C3%A9%20vlny%2024eae1c2f208809880c1ec06b3fea4d7/Snmek_obrazovky_2025-08-22_090849.png)
+![Snímek obrazovky 2025-08-22 090849.png](17Elektromagneticke_vlny/Snmek_obrazovky_2025-08-22_090849.png)
 
 Pro plnohodnotné využití je nutné mít dvojlomný materiál → polarizované vlny v různém směru cítí jiný index lomu
 
@@ -211,7 +211,7 @@ $$
 \Delta \varphi = \frac{2\pi}{\lambda_0}(n_2-n_1)d
 $$
 
-![Schématicky jak to vypadá](Elektromagnetick%C3%A9%20vlny%2024eae1c2f208809880c1ec06b3fea4d7/Snmek_obrazovky_2025-08-22_091133.png)
+![Schématicky jak to vypadá](17Elektromagneticke_vlny/Snmek_obrazovky_2025-08-22_091133.png)
 
 Schématicky jak to vypadá
 
@@ -280,7 +280,7 @@ Odklon vlny, který neproběhl v důsledku lomu nebo odrazu
 
 Schématický obrázek je
 
-![Snímek obrazovky 2025-08-22 095954.png](Elektromagnetick%C3%A9%20vlny%2024eae1c2f208809880c1ec06b3fea4d7/Snmek_obrazovky_2025-08-22_095954.png)
+![Snímek obrazovky 2025-08-22 095954.png](17Elektromagneticke_vlny/Snmek_obrazovky_2025-08-22_095954.png)
 
 → Zajímá nás difrakční obrazec → rozložení intenzity vlny dopadající na stínítko v závislosti na poloze stínítka
 

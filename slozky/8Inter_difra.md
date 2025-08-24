@@ -18,7 +18,7 @@ Interference světla je **proces konstruktivní/destruktivní superpozice vlnov�
 
 Dvě vlny s komplexními amplitudami ($U_1(r), U_2(r)$) se složí → složením se dostaneme monochromatická vlna o stejné frekvenci (komplexní amplitudu bude součet těch původních dvou)
 
-![Snímek obrazovky 2025-08-13 115500.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_115500.png)
+![Snímek obrazovky 2025-08-13 115500.png](8Inter_difra/Snmek_obrazovky_2025-08-13_115500.png)
 
 Okamžitá intenzita výsledné vlny bude
 
@@ -36,9 +36,9 @@ $$
 \Lambda = \dfrac{\lambda}{2n\sin(\theta/2)}
 $$
 
-![Snímek obrazovky 2025-08-13 115237.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_115237.png)
+![Snímek obrazovky 2025-08-13 115237.png](8Inter_difra/Snmek_obrazovky_2025-08-13_115237.png)
 
-![interference dvou divergujících vln; divergující a konvergující; rovinné a divergující](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_121642.png)
+![interference dvou divergujících vln; divergující a konvergující; rovinné a divergující](8Inter_difra/Snmek_obrazovky_2025-08-13_121642.png)
 
 interference dvou divergujících vln; divergující a konvergující; rovinné a divergující
 
@@ -56,7 +56,7 @@ $$
 
 Fázový posun při interakci s rozhraním se liší → $n_1<n_2<n_3\quad  \phi=0$ nebo $n_1<n_2>n_3 \quad \phi=\pi$
 
-![Snímek obrazovky 2025-08-13 122157.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_122157.png)
+![Snímek obrazovky 2025-08-13 122157.png](8Inter_difra/Snmek_obrazovky_2025-08-13_122157.png)
 
 Celkový fázový rozdíl při reflexi pak je $\psi_R = \Psi + \phi$
 
@@ -64,15 +64,15 @@ Integrální projev interference tedy závisí na konkrétních parametrech vrst
 
 Jde to tedy využít k měření rovinnosti vrstvy, modulace indexu lomu…
 
-![Snímek obrazovky 2025-08-13 123800.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_123800.png)
+![Snímek obrazovky 2025-08-13 123800.png](8Inter_difra/Snmek_obrazovky_2025-08-13_123800.png)
 
 ### Využití - interferometry
 
 **Michelsonů, Mach-Zehnderův, Sagnacův**
 
-![Snímek obrazovky 2025-08-13 124418.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_124418.png)
+![Snímek obrazovky 2025-08-13 124418.png](8Inter_difra/Snmek_obrazovky_2025-08-13_124418.png)
 
-![Snímek obrazovky 2025-08-13 124735.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_124735.png)
+![Snímek obrazovky 2025-08-13 124735.png](8Inter_difra/Snmek_obrazovky_2025-08-13_124735.png)
 
 </aside>
 
@@ -91,11 +91,11 @@ $$
 \begin{split}r_{01}=-r_{10} &\to R=\vert r_{01}\vert^2 \\t_{01}\neq t_{10} &\to T = t_{01}t_{10} \end{split}
 $$
 
-Amplitudy prošlých (odražených) vlny se dají lehce napočítat pomocí odvozených vztahů + znalostí [fázového rozdílu](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e.md)
+Amplitudy prošlých (odražených) vlny se dají lehce napočítat pomocí odvozených vztahů + znalostí [fázového rozdílu](8Inter_difra.md)
 
 Jednotlivé vlny budou tvořit geometrickou řadu → půjde to sečíst → nalezneme vzorce pro celkovou transmitance/reflektanci (bezeztrátové vrstvy).
 
-![Snímek obrazovky 2025-08-13 125159.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_125159.png)
+![Snímek obrazovky 2025-08-13 125159.png](8Inter_difra/Snmek_obrazovky_2025-08-13_125159.png)
 
 Zavádíme pojem **činitele jakosti vrstvy** (velikost rozdílu mezi min a max transmitancí)→ pak dostaneme ty vzorce ve formě *Airyho vzorců*
 
@@ -115,7 +115,7 @@ $$
 F = \frac{\pi \sqrt{R}}{1-R}
 $$
 
-![Snímek obrazovky 2025-08-13 125235.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_125235.png)
+![Snímek obrazovky 2025-08-13 125235.png](8Inter_difra/Snmek_obrazovky_2025-08-13_125235.png)
 
 ### Fabry-Perotův interferometr
 
@@ -149,9 +149,9 @@ $$
 
 V závislosti na vlnové délce to bude vypadat
 
-![Snímek obrazovky 2025-08-13 151247.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_151247.png)
+![Snímek obrazovky 2025-08-13 151247.png](8Inter_difra/Snmek_obrazovky_2025-08-13_151247.png)
 
-![Snímek obrazovky 2025-08-13 151128.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_151128.png)
+![Snímek obrazovky 2025-08-13 151128.png](8Inter_difra/Snmek_obrazovky_2025-08-13_151128.png)
 
 </aside>
 
@@ -223,7 +223,7 @@ Předpokládají se **stacionární signály** - stejné statistické vlastnosti
 
 A navíc že jsou signály **ergodické** - lze nahradit souborovou střední hodnotu časovou střední hodnotou.
 
-![Snímek obrazovky 2025-08-13 162113.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_162113.png)
+![Snímek obrazovky 2025-08-13 162113.png](8Inter_difra/Snmek_obrazovky_2025-08-13_162113.png)
 
 Statistická vlna má projev $A_{náhl}\exp(\omega_{náh}t - k_{náh}r)$
 
@@ -245,7 +245,7 @@ Udává míru korelovanosti v různých místech na vlnoploše, je spojena s dis
 
 Příčná koherenční délka - vzdálenost mezi aperturami, při které zmizí interferenční proužky
 
-![Snímek obrazovky 2025-08-13 163038.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_163038.png)
+![Snímek obrazovky 2025-08-13 163038.png](8Inter_difra/Snmek_obrazovky_2025-08-13_163038.png)
 
 ### Časová koherence
 
@@ -257,7 +257,7 @@ Spojeno s frekvenční distribucí zdroje
 
 Existuje vztah mezi šířkou spektra a koherenční časem $\tau_c$, podélna kohereční délka $l_c = \tau_c c = \frac{\lambda^2}{\Delta\lambda}$
 
-![Snímek obrazovky 2025-08-13 163032.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_163032.png)
+![Snímek obrazovky 2025-08-13 163032.png](8Inter_difra/Snmek_obrazovky_2025-08-13_163032.png)
 
 ### Částečně koherentní vlna
 
@@ -352,7 +352,7 @@ $$
 a(x,y,z) = \frac{i}{\lambda}\iint_\infty a(\overline x,\overline y, 0)\frac{e^{-ikr}}{r}\cos\theta d\overline x d\overline y
 $$
 
-![Snímek obrazovky 2025-08-13 195650.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_195650.png)
+![Snímek obrazovky 2025-08-13 195650.png](8Inter_difra/Snmek_obrazovky_2025-08-13_195650.png)
 
 <aside>
 <img src="https://www.notion.so/icons/archive_yellow.svg" alt="https://www.notion.so/icons/archive_yellow.svg" width="40px" />
@@ -377,7 +377,7 @@ $$
 
 $K(\chi)$ je inklinační faktor a charakterizuje úhlovou závislost vyzařování sekundární vlny v závislosti na normále úhlu dopadající vlnoplochy
 
-![Snímek obrazovky 2025-08-13 194531.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_194531.png)
+![Snímek obrazovky 2025-08-13 194531.png](8Inter_difra/Snmek_obrazovky_2025-08-13_194531.png)
 
 Následnou superpozicí těchto výsledků dostaneme Huygens-Fresnelův difkrační integrál
 
@@ -437,7 +437,7 @@ $$
 
 (maximální rozměry stínítka)
 
-![Jak se mění difrakční obrazec (v blízké zóně se hodně mění)](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_200949.png)
+![Jak se mění difrakční obrazec (v blízké zóně se hodně mění)](8Inter_difra/Snmek_obrazovky_2025-08-13_200949.png)
 
 Jak se mění difrakční obrazec (v blízké zóně se hodně mění)
 
@@ -464,9 +464,9 @@ Difrakční obrazec je 2D Fourierova transformace komplexní amplitudy na aparat
 
 Nahrazení sekundárních zářičů pomocí rovinných vln.
 
-![Snímek obrazovky 2025-08-13 202403.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_202403.png)
+![Snímek obrazovky 2025-08-13 202403.png](8Inter_difra/Snmek_obrazovky_2025-08-13_202403.png)
 
-![Snímek obrazovky 2025-08-13 202256.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_202256.png)
+![Snímek obrazovky 2025-08-13 202256.png](8Inter_difra/Snmek_obrazovky_2025-08-13_202256.png)
 
 </aside>
 
@@ -497,22 +497,22 @@ Orientace proužků je dána orientací interferenčního vektoru.
 
 Pokud zaznamenáme intenzitní pole na záznamový materiál → dostaneme transparent s transmitanční funkcí.
 
-![Snímek obrazovky 2025-08-13 204313.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_204313.png)
+![Snímek obrazovky 2025-08-13 204313.png](8Inter_difra/Snmek_obrazovky_2025-08-13_204313.png)
 
 Při rekonstrukci se uvažuje osvícení vyvolaného transparentu rekonstrukční vlnou identickou s referenční → výsledek je rekonstrukce signální vlny
 
 Nebo se využívá  rekonstrukce konjugovanou vlnou (k vlně referenční - šíří se opačným směrem) → vzniklý obraz objektu, který vystupuje z desky a fokusuje se v místě objektu
 
-![Snímek obrazovky 2025-08-13 204331.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_204331.png)
+![Snímek obrazovky 2025-08-13 204331.png](8Inter_difra/Snmek_obrazovky_2025-08-13_204331.png)
 
 V daném místě hologramu je uložena informace o celém objektu při pohledu z tohoto místa hologramu (informace o celém objektu ale z různých směrů) → když roztrhnu hologram → pořád ho uvidím, ale jen z jisté úhlu
 
 Jde se rekonstruovat i bílým světlem → dochází k nízké selektivitě transmisního hologramu vůči vlnové délce  → hologram vznikne pro všechny vlnové délky
 
-![Snímek obrazovky 2025-08-13 205602.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_205602.png)
+![Snímek obrazovky 2025-08-13 205602.png](8Inter_difra/Snmek_obrazovky_2025-08-13_205602.png)
 
 Vytvořím hologram (podobný jako objemová mřížka) nebo reflexní mřížky - filtr bude vybírat moji vlnovou délku - ostatní vlnové délky projdou bez difrakce
 
  
 
-![Snímek obrazovky 2025-08-13 205716.png](Jevy%20optick%C3%A9,%20interference%20a%20difrakce%20249ae1c2f208804b8e6fc9274f8e981e/Snmek_obrazovky_2025-08-13_205716.png)
+![Snímek obrazovky 2025-08-13 205716.png](8Inter_difra/Snmek_obrazovky_2025-08-13_205716.png)

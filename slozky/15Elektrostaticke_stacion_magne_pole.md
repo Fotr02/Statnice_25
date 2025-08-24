@@ -44,7 +44,7 @@ $$
 
 Že $F_C \thicksim 1/r^2$ → experimentálně pomocí torzních kyvadel
 
-![Snímek obrazovky 2025-08-20 090022.png](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23/Snmek_obrazovky_2025-08-20_090022.png)
+![Snímek obrazovky 2025-08-20 090022.png]15Elektrostaticke_stacion_magne_pole/Snmek_obrazovky_2025-08-20_090022.png)
 
 Máme-li více nábojů → jejich výsledná síla je dána principem superpozice
 
@@ -92,9 +92,9 @@ Elektrostatické pole jde znázornit siločarami (křivky, jejichž tečna má v
 
 Ze ZZ náboje → celkový počet siločar vycházejících z náboje se zachovává a nemění se ani při pohybuju náboje
 
-![Snímek obrazovky 2025-08-20 091715.png](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23/Snmek_obrazovky_2025-08-20_091715.png)
+![Snímek obrazovky 2025-08-20 091715.png]15Elektrostaticke_stacion_magne_pole/Snmek_obrazovky_2025-08-20_091715.png)
 
-![Snímek obrazovky 2025-08-20 091750.png](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23/Snmek_obrazovky_2025-08-20_091750.png)
+![Snímek obrazovky 2025-08-20 091750.png]15Elektrostaticke_stacion_magne_pole/Snmek_obrazovky_2025-08-20_091750.png)
 
 .
 
@@ -136,7 +136,7 @@ $$
 \varphi = \frac{W}{q}
 $$
 
-Pokud na [rovnic](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23.md)i zapůsobíme divergencí →využijeme definici Laplaceova operátoru ($\Delta = \nabla\cdot \nabla$) a Gaussovu větu ($\nabla\cdot \vec E = \frac{\rho}{\varepsilon_0}$)
+Pokud na [rovnic]15Elektrostaticke_stacion_magne_pole.md)i zapůsobíme divergencí →využijeme definici Laplaceova operátoru ($\Delta = \nabla\cdot \nabla$) a Gaussovu větu ($\nabla\cdot \vec E = \frac{\rho}{\varepsilon_0}$)
 
 $$
 -\Delta \varphi = \frac{\rho}{\varepsilon_0}
@@ -153,7 +153,7 @@ Hledání potenciálu splňující tuto rovnici na základně daných PP se naz�
 
 ## Hustota elektrostatické energie
 
-Máme objem nabitý s hustotou náboje $\rho$ (je to obecně závislý na poloze) → limitní přechodem ke spojitému náboji se [rovnice](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23.md) změní na
+Máme objem nabitý s hustotou náboje $\rho$ (je to obecně závislý na poloze) → limitní přechodem ke spojitému náboji se [rovnice]15Elektrostaticke_stacion_magne_pole.md) změní na
 
 $$
 W = \frac{1}{2} \int_V\int_V \frac{\rho_1 dV_1 \rho_2dV_2}{\vert \vec r_2-\vec r_1\vert} 
@@ -194,13 +194,13 @@ Když chceme získat vektor magnetické indukce vodiče s proudem →vodič se r
 
 $\vec R$ - vektor spojující počátek elementu délky vodiče a místem, kde chceme zjistit indukci
 
-Element indukce získáme [z](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23.md)  a bude
+Element indukce získáme [z]15Elektrostaticke_stacion_magne_pole.md)  a bude
 
 $$
 d\vec B= \frac{\mu_0}{4\pi}\frac{dQ}{dt} \frac{d\vec l \times \vec R }{R^3}
 $$
 
-![Snímek obrazovky 2025-08-20 102306.png](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23/Snmek_obrazovky_2025-08-20_102306.png)
+![Snímek obrazovky 2025-08-20 102306.png]15Elektrostaticke_stacion_magne_pole/Snmek_obrazovky_2025-08-20_102306.png)
 
 Finální integrací se získá Biotův-Savartův zákon
 
@@ -229,7 +229,7 @@ $$
 
 $(\frac{r^\prime}{r})^2 - \frac{2r^\prime \cos \Theta}{r} = \alpha$
 
-![Snímek obrazovky 2025-08-20 105646.png](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23/Snmek_obrazovky_2025-08-20_105646.png)
+![Snímek obrazovky 2025-08-20 105646.png]15Elektrostaticke_stacion_magne_pole/Snmek_obrazovky_2025-08-20_105646.png)
 
 Dále se upraví 
 
@@ -314,7 +314,7 @@ Dalo by se pokračovat i dál → s rostoucí symetrií rozložení náboje se u
 
 # Elektrický dipól
 
-Vztah pro potenciál dipólu máme [ZDE](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23.md) → elektrická intenzita bude mít tvar
+Vztah pro potenciál dipólu máme [ZDE]15Elektrostaticke_stacion_magne_pole.md) → elektrická intenzita bude mít tvar
 
 $$
 \vec E = -\nabla \varphi = k\left(\frac{3(\vec p \cdot \vec r)\vec r}{r^5} - \frac{\vec p}{r^3}\right)
@@ -340,7 +340,7 @@ $$
 
 → dochází k natáčení dipólu a konání práce
 
-![Snímek obrazovky 2025-08-20 173821.png](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23/Snmek_obrazovky_2025-08-20_173821.png)
+![Snímek obrazovky 2025-08-20 173821.png]15Elektrostaticke_stacion_magne_pole/Snmek_obrazovky_2025-08-20_173821.png)
 
 ## Nehomogenní pole
 
@@ -350,7 +350,7 @@ $$
 \vec F = (\vec p \nabla)\vec E
 $$
 
-![Snímek obrazovky 2025-08-20 173829.png](Elektrostatick%C3%A9%20a%20stacion%C3%A1rn%C3%AD%20magnetick%C3%A9%20pole%2024eae1c2f20880c183b9fb70bd3d1e23/Snmek_obrazovky_2025-08-20_173829.png)
+![Snímek obrazovky 2025-08-20 173829.png]15Elektrostaticke_stacion_magne_pole/Snmek_obrazovky_2025-08-20_173829.png)
 
 Atomy a molekuly mohou mít vlastní dipólové moment závislé na vnitřním uspořádání nábojů, nebo mohou mít momenty indukované - zpolarizují se ve vnějším poli; indukovaný jev je ale o několik řádů menší
 
