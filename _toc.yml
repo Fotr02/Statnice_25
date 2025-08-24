@@ -10,44 +10,44 @@ parts:
         title: Principy laserů
       - file: slozky/2Typy_laseru
         title: Typy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/3Otevrene_rezonatory
         title: Typy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/4Rezimy_generace
         title: Typy laserů
-      - file: slozky/1Principy_laseru
+      - file: slozky/5Zesilovac
         title: Principy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/6Popis_svetla
         title: Typy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/7Svetlo_prucho
         title: Typy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/8Inter_difra
         title: Typy laserů
-      - file: slozky/1Principy_laseru
+      - file: slozky/9Zaklady_geom_optiky
         title: Principy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/10Vlnovody
         title: Typy laserů
 
 
   - caption: "Aplikovaná fyzika"
     chapters:
-      - file: slozky/1Principy_laseru
+      - file: slozky/11Dynamika_pohybu
         title: Principy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/12Soustava_castic
         title: Typy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/13STR
         title: Typy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/14Maxwellovy_rovnice
         title: Typy laserů
-      - file: slozky/1Principy_laseru
+      - file: slozky/15Elektrostaticke_stacion_magne_pole
         title: Principy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/16Vlny_disperzni
         title: Typy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/17Elektromagneticke_vlny
         title: Typy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/18Atomova_fyzika
         title: Typy laserů
-      - file: slozky/1Principy_laseru
+      - file: slozky/19Termodynamika
         title: Principy laserů
-      - file: slozky/2Typy_laseru
+      - file: slozky/20Stat_Fyzika
         title: Typy laserů
 
