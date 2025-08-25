@@ -6,8 +6,7 @@ Mělo by to pokrývat: **základy interakce záření s látkou , Einsteinovy ko
 
 **Stavební jednotkou látkové hmoty jsou atomy** (ionty), jejichž vnitřní strukturu a projevy nelze vysvětlit klasickou fyzikou a je nutné využít **kvantovou mechaniku**, kde energie a další měřitelné veličiny se mohou měnit pouze po **diskrétních hodnotách** (kvantech)
 
-```{admonition} Jak si tedy zadefinujeme látku?
-
+```{admonition} ## Měřitelná (pozorovatelná) veličina
 :class: hint, toggle
 💡
 ## Měřitelná (pozorovatelná) veličina
@@ -16,7 +15,7 @@ Fyzikální veličina, kterou lze experimentálně naměřit a je relevantní pr
 
 ```
 
-```{admonition} Jak si tedy zadefinujeme látku?
+```{admonition} ## Látka (atomy, ionty, molekuly) a Kvantové soustavy
 :class: note, toggle
 💡
 
